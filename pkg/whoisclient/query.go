@@ -1,8 +1,6 @@
 package whoisclient
 
 import (
-	"strings"
-	"strconv"
 	"net"
 	"fmt"
 	"log"
@@ -19,7 +17,7 @@ func Whois_Query(domain_name string) string { // TODO: make asynchronous, improv
 		return "" // error
 	}
 
-	formatted_addr := strings.Join([]string{server_addr.IP.String(), strconv.Itoa(43)}, ":") // format IP and port in golangs format
+	formatted_addr := net.JoinHostPort(server_addr.IP.String(), "43") // format IP and port in golangs format
 	conn, err := net.Dial("tcp", formatted_addr) // actually connect to server
 	if err != nil {
 		log.Printf("Failed to connect to WHOIS server via TCP")
