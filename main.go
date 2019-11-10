@@ -1,12 +1,23 @@
 package main 
 
 import (
-	"log"
+	"fmt"
+	"flag"
+	"os"
 	whoisclient "./pkg/whoisclient"
 )
 
+func whois(domain_name string) {
+	proper_domain := whoisclient.Standardize_Domain_Name(domain_name)
+	fmt.Printf("%s", whoisclient.Whois_Query(proper_domain))
+}
 func main() {
-	unformatted_domain := "nic.americanfamily"
-	proper_domain := whoisclient.Standardize_Domain_Name(unformatted_domain)
-	log.Printf("%s", whoisclient.Whois_Query(proper_domain)) // query whois server about domain name and print the response
+	domain_ptr := flag.String("domain", "", "Domain to be queried.")
+	flag.Parse()
+	if(*domain_ptr == "") {
+		fmt.Printf("WHOIS Client 1.0\nPlease supply an argument.\n")
+		flag.PrintDefaults()
+		os.Exit(1)
+	}
+	whois(*domain_ptr)
 }
