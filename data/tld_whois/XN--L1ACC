@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       мон
+domain-ace:   XN--L1ACC
+
+organisation: Datacom Co.,Ltd
+address:      San Business Center Building,
+address:      Sukhbaatar district 8th khoroo, Amar's street
+address:      Ulaanbaatar 14200
+address:      Mongolia
+
+contact:      administrative
+name:         Enkhbat Dangaasuren
+organisation: Datacom Co.,Ltd
+address:      San Business Center Building,
+address:      Sukhbaatar district 8th khoroo, Amar's street
+address:      Ulaanbaatar 14200
+address:      Mongolia
+phone:        +976 11 318048
+fax-no:       +976 11 320210
+e-mail:       enkhbat@datacom.mn
+
+contact:      technical
+name:         Enkhbold Gombo
+organisation: Datacom Co.,Ltd
+address:      San Business Center Building,
+address:      Sukhbaatar district 8th khoroo, Amar's street
+address:      Ulaanbaatar 14200
+address:      Mongolia
+phone:        +976 11 318048
+fax-no:       +976 11 320210
+e-mail:       hostmaster@datacom.mn
+
+nserver:      NS1.IDN.MN 218.100.84.27
+nserver:      NS2.IDN.MN 202.170.80.40
+nserver:      NS3.IDN.MN 180.149.98.78
+ds-rdata:     45112 5 2 1CBBA9081B31B12FA98F5B7FEE95751BD16676E41A2ABC0B25BD0C0031474492
+ds-rdata:     45112 5 1 1F4351261342FC31DAA8D5E4F1D4FBF6EE0D9857
+
+status:       ACTIVE
+remarks:      Registration information: http://www.mon.mn/
+
+created:      2012-06-21
+changed:      2014-11-04
+source:       IANA
+

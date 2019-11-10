@@ -1,0 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       KM
+
+organisation: Comores Telecom
+address:      Place Volovolo BP 7000
+address:      Moroni 98123
+address:      Comoros
+
+contact:      administrative
+name:         Oumara Mgomri
+organisation: Comores Telecom
+address:      Place Volovolo BP 7000
+address:      Moroni 98123
+address:      Comoros
+phone:        +2697734300
+fax-no:       +2697738912
+e-mail:       oumara.mgomri@comorestelecom.km
+
+contact:      technical
+name:         Maoulida Mmadi Issihaka
+organisation: Comores Telecom
+address:      Place Volovolo BP 7000
+address:      Moroni 98123
+address:      Comoros
+phone:        +2693367900
+fax-no:       +2697738912
+e-mail:       maoulida.mmadi@comorestelecom.km
+
+nserver:      DNS1.NIC.KM 197.255.224.18
+nserver:      DNS2.NIC.KM 197.255.224.66
+nserver:      NS-KM.AFRINIC.NET 196.216.168.46 2001:43f8:120:0:0:0:0:46
+
+status:       ACTIVE
+remarks:      Registration information: http://www.domaine.km/
+
+created:      1998-06-08
+changed:      2016-11-09
+source:       IANA
+

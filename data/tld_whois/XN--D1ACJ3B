@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.xn--d1acj3b
+
+domain:       дети
+domain-ace:   XN--D1ACJ3B
+
+organisation: The Foundation for Network Initiatives “The Smart Internet”
+address:      127083 Moscow, 8 Marta str., 1 bld. 12
+address:      Russian Federation
+
+contact:      administrative
+name:         Deputy Director
+organisation: The Foundation for Network Initiatives "The Smart Internet"
+address:      127083 Moscow, 8 Marta str., 1 bld. 12
+address:      Russian Federation
+phone:        +7 495 730 29 65
+fax-no:       +7 495 730 29 68
+e-mail:       adm@dotdeti.ru
+
+contact:      technical
+name:         Network enginner
+organisation: Technical Center of Internet
+address:      127083, Moscow, 8 Marta street 1, bld 12
+address:      Russian Federation
+phone:        +7 495 730 29 69
+fax-no:       +7 495 730 29 68
+e-mail:       gtld-tech@tcinet.ru
+
+nserver:      A.DNS.RIPN.NET 193.232.128.6 2001:678:17:0:193:232:128:6
+nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
+nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
+nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
+nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
+ds-rdata:     1561 8 2 2A452FFDDBF77F9DBB1BFF9A45530084E5894FCA2617714B2D81DF621ABF617B
+
+whois:        whois.nic.xn--d1acj3b
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dotdeti.ru
+
+created:      2014-02-13
+changed:      2019-08-06
+source:       IANA
+

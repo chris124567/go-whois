@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.bj
+
+domain:       BJ
+
+organisation: Autorité de Régulation des Communications Electroniques et de la Poste du Bénin (ARCEP BENIN)
+address:      COTONOU /GANHI, Immeuble MAERSK House zone OCBN
+address:      COTONOU, 01BP 2034
+address:      Benin
+
+contact:      administrative
+name:         Secrétaire Exécutif (Executive Secretary)
+organisation: ARCEP BENIN
+address:      COTONOU /GANHI, Immeuble MAERSK House zone OCBN
+address:      COTONOU, 01BP 2034
+address:      Benin
+phone:        +229 21 31 00 65
+fax-no:       +229 21 31 00 67
+e-mail:       contacts@arcep.bj
+
+contact:      technical
+name:         Directeur Technique (Technical Manager)
+organisation: JENY SAS
+address:      Carré 321 Immeuble EL WAKIL (BOA ZONGO)
+address:      Cotonou 01 BP 3885
+address:      Benin
+phone:        +229 96 80 52 52
+e-mail:       tech@nic.bj
+
+nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
+nserver:      NS1.NIC.BJ 154.65.31.84
+nserver:      NS2.NIC.BJ 41.85.191.2
+nserver:      PCH.NIC.BJ 2001:500:14:6125:ad:0:0:1 204.61.216.125
+
+whois:        whois.nic.bj
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.bj
+
+created:      1996-01-18
+changed:      2019-06-26
+source:       IANA
+

@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.gtld.knet.cn
+
+domain:       BAIDU
+
+organisation: Baidu, Inc.
+address:      Baidu Campus, No.10 Shangdi 10th Street Haidian DistrictBeijing
+address:      Beijing
+address:      China
+
+contact:      administrative
+name:         Nannan Xu
+organisation: Baidu, Inc.
+address:      Baidu Campus, No.10 Shangdi 10th Street Haidian DistrictBeijing
+address:      Beijing
+address:      China
+phone:        +86 188 1064 7965
+fax-no:       +86 10 5992 0062
+e-mail:       xunannan02@baidu.com
+
+contact:      technical
+name:         Gao Lei
+organisation: ZDNS
+address:      4 South 4th, Zhongguancun, Haidian District, Beijing, China
+address:      China
+phone:        +86.15011380586
+e-mail:       gaolei@zdns.cn
+
+nserver:      A.ZDNSCLOUD.COM 203.99.24.1
+nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      C.ZDNSCLOUD.COM 203.99.26.1
+nserver:      D.ZDNSCLOUD.COM 203.99.27.1
+nserver:      F.ZDNSCLOUD.COM 114.67.46.12
+nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     63817 8 2 13605EBD9736B66B1EB3B2DB5865CA66B5EFD2BE720087FE4441039F3AA4CF3D
+
+whois:        whois.gtld.knet.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.zdns.cn
+
+created:      2015-12-17
+changed:      2019-08-16
+source:       IANA
+

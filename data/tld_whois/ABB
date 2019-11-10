@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ABB
+
+organisation: ABB Ltd
+address:      Affolternstrasse 44
+address:      Zurich - 8050
+address:      Switzerland
+
+contact:      administrative
+name:         Domain Administration
+organisation: ABB Schweiz AG
+address:      Intellectual Property, CH-IP/TM
+address:      Brown Boveri Strasse 6
+address:      CH-5400 Baden
+address:      Switzerland
+phone:        +41 58 585 56 34
+fax-no:       +41 58 585 76 55
+e-mail:       ngtld-abb@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     62559 8 2 2DD7BF24AC488D85BC3F9D3F817D37DE9F608E79403FA29E26A55679254F6F28
+
+status:       ACTIVE
+remarks:      Registration information: http://abb.com
+
+created:      2015-04-09
+changed:      2019-08-16
+source:       IANA
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ABB
+
+organisation: ABB Ltd
+address:      Affolternstrasse 44
+address:      Zurich - 8050
+address:      Switzerland
+
+contact:      administrative
+name:         Domain Administration
+organisation: ABB Schweiz AG
+address:      Intellectual Property, CH-IP/TM
+address:      Brown Boveri Strasse 6
+address:      CH-5400 Baden
+address:      Switzerland
+phone:        +41 58 585 56 34
+fax-no:       +41 58 585 76 55
+e-mail:       ngtld-abb@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     62559 8 2 2DD7BF24AC488D85BC3F9D3F817D37DE9F608E79403FA29E26A55679254F6F28
+
+status:       ACTIVE
+remarks:      Registration information: http://abb.com
+
+created:      2015-04-09
+changed:      2019-08-16
+source:       IANA
+

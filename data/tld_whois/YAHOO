@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       YAHOO
+
+organisation: Yahoo! Domain Services Inc.
+address:      701 First Avenue Sunnyvale, California - 94089 US
+address:      United States
+
+contact:      administrative
+name:         Domain Admin
+organisation: Yahoo! Domain Services Inc.
+address:      701 First Avenue Sunnyvale, California - 94089 US
+address:      United States
+phone:        +1 212 206 4400
+e-mail:       ngtld-oath@cscglobal.com
+
+contact:      technical
+name:         Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 844-677-2878
+fax-no:       +1 571-434-5401
+e-mail:       technical1@registry.neustar
+
+nserver:      NS1.DNS.NIC.YAHOO 156.154.144.184 2610:a1:1071:0:0:0:0:b8
+nserver:      NS2.DNS.NIC.YAHOO 156.154.145.184 2610:a1:1072:0:0:0:0:b8
+nserver:      NS3.DNS.NIC.YAHOO 156.154.159.184 2610:a1:1073:0:0:0:0:b8
+nserver:      NS4.DNS.NIC.YAHOO 156.154.156.184 2610:a1:1074:0:0:0:0:b8
+nserver:      NS5.DNS.NIC.YAHOO 156.154.157.184 2610:a1:1075:0:0:0:0:b8
+nserver:      NS6.DNS.NIC.YAHOO 156.154.158.184 2610:a1:1076:0:0:0:0:b8
+ds-rdata:     55804 8 1 E8F0E0A48C46563C85C5175911346CFF4137DB3C
+ds-rdata:     55804 8 2 2396998FFE3A3F69B439E48661038302C1E92CAF71F47A07EDA680AFC66F6CBB
+ds-rdata:     50224 8 1 348AA52BC5E0B10486432188C46906F0F5E3B80C
+ds-rdata:     50224 8 2 AA2E909D8280F45C0C0DB470D2D811AAB9DD4125096F22BA5E98921485D1177F
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.yahoo
+
+created:      2016-01-29
+changed:      2019-06-28
+source:       IANA
+

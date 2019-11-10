@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.news
+
+domain:       NEWS
+
+organisation: United TLD Holdco Ltd.
+address:      One Clarendon Row, Dublin 2, Co. Dublin
+address:      Ireland
+
+contact:      administrative
+name:         Serina Ness
+organisation: Donuts Inc.
+address:      Donuts Inc.
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
+address:      United States
+phone:        +1.425.283.8248
+fax-no:       +1.425.671.0020
+e-mail:       serina@donuts.email
+
+contact:      technical
+name:         Ben Levac
+organisation: Donuts Inc.
+address:      Donuts Inc.
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       ben@donuts.email
+
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
+ds-rdata:     18742 8 2 DD72CA967B560BA790BE018601F70CC453FB8688DCEAE8A2E0807A60B3B5ED8A
+ds-rdata:     18742 8 1 B5FE282500E12F083E55C440D38DF139BE52ACB1
+
+whois:        whois.nic.news
+
+status:       ACTIVE
+remarks:      Registration information: http://www.donuts.domains/
+
+created:      2015-03-12
+changed:      2019-08-01
+source:       IANA
+

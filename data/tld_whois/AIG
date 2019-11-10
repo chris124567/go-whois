@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AIG
+
+organisation: American International Group, Inc.
+address:      80 Pine Street, 30th Floor
+address:      New York, NY10005
+address:      United States
+
+contact:      administrative
+name:         GDS Governance
+organisation: American International Group, Inc.
+address:      80 Pine Street, 30th Floor
+address:      New York, NY10005
+address:      United States
+phone:        +1 212 770 7000
+fax-no:       +1 212 458 1942
+e-mail:       dmsgovernance@aig.com
+
+contact:      technical
+name:         Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 844-677-2878
+fax-no:       +1 571-434-5401
+e-mail:       technical1@registry.neustar
+
+nserver:      NS1.DNS.NIC.AIG 156.154.144.6 2610:a1:1071:0:0:0:0:6
+nserver:      NS2.DNS.NIC.AIG 156.154.145.6 2610:a1:1072:0:0:0:0:6
+nserver:      NS3.DNS.NIC.AIG 156.154.159.6 2610:a1:1073:0:0:0:0:6
+nserver:      NS4.DNS.NIC.AIG 156.154.156.6 2610:a1:1074:0:0:0:0:6
+nserver:      NS5.DNS.NIC.AIG 156.154.157.6 2610:a1:1075:0:0:0:0:6
+nserver:      NS6.DNS.NIC.AIG 156.154.158.6 2610:a1:1076:0:0:0:0:6
+ds-rdata:     14476 8 1 383B575F5826D868D5C3CC26F1DF46B8A7B909CB
+ds-rdata:     14476 8 2 4DAEB0242834CECB1C5C0A06FAF104943D2F5737992E74E6B00928488217CA51
+ds-rdata:     25324 8 2 990282A460AFD0DC53BB6F3CF05D41923D1EECA4A56029F8DDF5C0DC7957C937
+ds-rdata:     25324 8 1 AFF0DAEFB7FED747EF83E907A4317892A1D949C4
+
+status:       ACTIVE
+remarks:      Registration information: http://www.aig.com
+
+created:      2015-04-09
+changed:      2019-06-27
+source:       IANA
+

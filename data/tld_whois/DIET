@@ -1,0 +1,59 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.uniregistry.net
+
+domain:       DIET
+
+organisation: Uniregistry, Corp.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands
+address:      PO Box 1361, George Town, KY1-1108
+address:      Cayman Islands
+
+contact:      administrative
+name:         Frank Schilling
+organisation: Uniregistry, Corp.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands
+address:      PO Box 1361, George Town, KY1-1108
+address:      Cayman Islands
+phone:        +1.3457496263
+fax-no:       +1.3457466263
+e-mail:       contact@uniregistry.com
+
+contact:      technical
+name:         Francisco Obispo
+organisation: Uniregistry Inc.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands
+address:      PO Box 1361, George Town, KY1-1108
+address:      Cayman Islands
+phone:        +1.3457496263
+fax-no:       +1.3457466263
+e-mail:       ops@uniregistry.com
+
+nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
+nserver:      NS2.UNIREGISTRY.INFO 64.96.245.53
+nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+ds-rdata:     65092 5 1 CBB0EA9B71630F0AD22B4C2D688DC42709A2C5A8
+ds-rdata:     65092 5 2 D73BBC64D90C3078B5019D4CA616C0B9849F52A1A20474DD95D11CBA68BBFD60
+ds-rdata:     2464 5 2 A2624874743790CB52066E9B50B06EBF915DC80355E2F9C10094295DE2ADDFB7
+ds-rdata:     11962 5 2 A3D113A8AF70BC8B9D35FC555A0EC7474482383FC4F73CA605F0EC498288FDC9
+ds-rdata:     11962 5 1 5D42445C9C0AA2C65F6B9E23F90B3D5C30C4A256
+ds-rdata:     2464 5 1 58AB5506CD049DDD784C487957D5D87C44E238B0
+
+whois:        whois.uniregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://uniregistry.link
+
+created:      2014-08-15
+changed:      2019-08-15
+source:       IANA
+

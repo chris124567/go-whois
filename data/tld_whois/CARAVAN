@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CARAVAN
+
+organisation: Caravan International, Inc.
+address:      401 N Michigan Ave, Chicago, IL 60611
+address:      United States
+
+contact:      administrative
+name:         Ray Koltys
+organisation: Caravan International, Inc.
+address:      401 N Michigan Ave, Chicago, IL 60611
+address:      United States
+phone:        +1-312-321-9800
+fax-no:       +1-312-321-9810
+e-mail:       tld.registry@caravan.com
+
+contact:      technical
+name:         Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 844-677-2878
+fax-no:       +1 571-434-5401
+e-mail:       technical1@registry.neustar
+
+nserver:      NS1.DNS.NIC.CARAVAN 156.154.144.32 2610:a1:1071:0:0:0:0:20
+nserver:      NS2.DNS.NIC.CARAVAN 156.154.145.32 2610:a1:1072:0:0:0:0:20
+nserver:      NS3.DNS.NIC.CARAVAN 156.154.159.32 2610:a1:1073:0:0:0:0:20
+nserver:      NS4.DNS.NIC.CARAVAN 156.154.156.32 2610:a1:1074:0:0:0:0:20
+nserver:      NS5.DNS.NIC.CARAVAN 156.154.157.32 2610:a1:1075:0:0:0:0:20
+nserver:      NS6.DNS.NIC.CARAVAN 156.154.158.32 2610:a1:1076:0:0:0:0:20
+ds-rdata:     57656 8 1 86F649C433DDA79032AA002DA8E3671E56C2A7B9
+ds-rdata:     57656 8 2 601BC4A9BFDE2727C6517167893EA79A4B12D5F20DD8E911E39282AAC490CF17
+ds-rdata:     33319 8 2 EAE0B7BB8BF338AF6B03326204EF9A7C9AC9E25AEAFE265E5CE2259FD33A3D7E
+ds-rdata:     33319 8 1 D03B89CCB3CD7471BABEEAE701250AC2A7B5FCFF
+
+status:       ACTIVE
+remarks:      Registration information: http://www.caravan.com
+
+created:      2014-05-22
+changed:      2019-06-27
+source:       IANA
+

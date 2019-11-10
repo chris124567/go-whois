@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.desi
+
+domain:       DESI
+
+organisation: Desi Networks LLC
+address:      6813 Marbury Road
+address:      Bethesda, MD 20817
+address:      United States
+
+contact:      administrative
+name:         Siddharth Ohri
+organisation: Desi Networks, LLC
+address:      6813 Marbury Road
+address:      Bethesda, MD 20817
+address:      United States
+phone:        1-202-236-4338
+e-mail:       sohri@dotdesi.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.DESI 194.169.218.81 2001:67c:13cc:0:0:0:1:81
+nserver:      B.NIC.DESI 185.24.64.81 2a04:2b00:13cc:0:0:0:1:81
+nserver:      C.NIC.DESI 212.18.248.81 2a04:2b00:13ee:0:0:0:0:81
+nserver:      D.NIC.DESI 212.18.249.81 2a04:2b00:13ff:0:0:0:0:81
+ds-rdata:     39859 8 2 1382964834be4f7bf4830a27955ec8f6a1557ec20479ae946f6910a131e54ab9
+ds-rdata:     32296 8 2 948f1b60d22606e7488f84c0ad2e0546376aeedfd15b6ded198127add5d8928f
+ds-rdata:     11020 8 2 5017e17ac3f43d2dcca968723fddb1b641765a38f53afba0469e33c9ac75c582
+
+whois:        whois.nic.desi
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dotdesi.com/
+
+created:      2014-03-06
+changed:      2019-03-28
+source:       IANA
+

@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.dot.ml
+
+domain:       ML
+
+organisation: Agence des Technologies de l’Information et de la Communication
+address:      ACI 2000 Hamdallaye
+address:      Bamako BP E 5467
+address:      Mali
+
+contact:      administrative
+name:         Chef Service Gestion du .ml
+organisation: Agence des Technologies de l’Information et de la Communication
+address:      ACI 2000 Hamdallaye
+address:      Bamako BP E 5467
+address:      Mali
+phone:        +223 77 28 52 51
+fax-no:       +223 20 29 94 13
+e-mail:       nkamate@agetic.gouv.ml
+
+contact:      technical
+name:         Manager ICT
+organisation: Mali Dili B.V.
+address:      Keizersgracht 213
+address:      1016 DT  Amsterdam
+address:      Netherlands
+phone:        +31 20 5315726
+fax-no:       +31 20 5315721
+e-mail:       info@malidili.com
+
+nserver:      A.NS.ML 185.21.168.1 2a04:1b00:0:0:0:0:0:1
+nserver:      B.NS.ML 185.21.169.1 2a04:1b00:1:0:0:0:0:1
+nserver:      C.NS.ML 185.21.170.1 2a04:1b00:2:0:0:0:0:1
+nserver:      D.NS.ML 185.21.171.1 2a04:1b00:3:0:0:0:0:1
+
+whois:        whois.dot.ml
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dot.ml
+
+created:      1993-09-29
+changed:      2018-04-20
+source:       IANA
+

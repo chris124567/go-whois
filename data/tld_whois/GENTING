@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.genting
+
+domain:       GENTING
+
+organisation: Resorts World Inc. Pte. Ltd.
+address:      3 Lim Teck Kim Road
+address:      #09-02 Genting Centre
+address:      Singapore 088934
+address:      Singapore
+
+contact:      administrative
+name:         VP
+organisation: Resorts World Inc. Pte. Ltd.
+address:      RW Tech Labs Sdn Bhd
+address:      Jalan Sultan Ismail 28
+address:      2nd Floor Wisma Genting
+address:      Kuala Lumpur
+address:      50250
+address:      Malaysia
+address:      Malaysia
+phone:        +65 6823 9106
+fax-no:       +65 6720 0866
+e-mail:       ngtld-genting@cscglobal.com
+
+contact:      technical
+name:         Bonnie Bryant
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States (US)
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     22539 8 2 983FDBFBBA09945A8DA7FEACB64460FA801F4A3481D83FA9E1257FC92ED206A3
+
+whois:        whois.nic.genting
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.genting/
+
+created:      2015-06-11
+changed:      2019-09-09
+source:       IANA
+

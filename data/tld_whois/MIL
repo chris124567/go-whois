@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MIL
+
+organisation: DoD Network Information Center
+address:      3990 East Broad Street
+address:      Columbus Ohio 43213
+address:      United States
+
+contact:      administrative
+name:         DoD NIC Registry Services
+organisation: DoD Network Information Center
+address:      3990 East Broad Street
+address:      Columbus Ohio 43213
+address:      United States
+phone:        (614)692-6640
+fax-no:       (614)692-3452
+e-mail:       disa.columbus.ns.mbx.hostmaster-dod-nic@mail.mil
+
+contact:      technical
+name:         DoD NIC Registry Services
+organisation: DoD Network Information Center
+address:      3990 East Broad Street
+address:      Columbus Ohio 43213
+address:      United States
+phone:        (614)692-6640
+fax-no:       (614)692-3452
+e-mail:       disa.columbus.ns.mbx.hostmaster-dod-nic@mail.mil
+
+nserver:      CON1.NIPR.MIL 199.252.157.234
+nserver:      CON2.NIPR.MIL 199.252.162.234
+nserver:      EUR1.NIPR.MIL 199.252.154.234
+nserver:      EUR2.NIPR.MIL 199.252.143.234
+nserver:      PAC1.NIPR.MIL 199.252.180.234
+nserver:      PAC2.NIPR.MIL 199.252.155.234
+ds-rdata:     7765 8 1 D8BCC5D307AC70652F7CD21653322746EFCEA3DC
+ds-rdata:     7765 8 2 49E8705D169873922E701EE46D3063CD1B7C5EADC714815241C54E4399B9BF09
+
+status:       ACTIVE
+
+created:      1985-01-01
+changed:      2019-09-20
+source:       IANA
+

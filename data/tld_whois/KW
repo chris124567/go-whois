@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       KW
+
+organisation: Communications and Information Technology Regulatory Authority
+address:      Khaled Ibn Alwaleed street, block 6, plot 1, aldhow tower, 12th floor
+address:      Sharq, Al Asima 15300
+address:      Kuwait
+
+contact:      administrative
+name:         Manal AlMazyad
+organisation: Communications and Information Technology Regulatory Authority
+address:      Khaled Ibn Alwaleed street, block 6, plot 1, aldhow tower, 12th floor
+address:      Sharq, Al Asima 15300
+address:      Kuwait
+phone:        +965.22966000
+fax-no:       +965.00000000
+e-mail:       nic.admin@citra.gov.kw
+
+contact:      technical
+name:         Bashar Al-Abdulhadi
+organisation: Kuwaitnet General Trading & Contracting Co
+address:      P.O. Box 1230
+address:      Dasman, Al Asima 15463
+address:      Kuwait
+phone:        +965.1807060
+fax-no:       +965.22257060
+e-mail:       nic.tech@citra.gov.kw
+
+nserver:      A.NIC.KW 51.141.6.252
+nserver:      B.NIC.KW 23.97.177.111
+nserver:      C.NIC.KW 162.88.46.1 2600:2000:3020:0:0:0:0:1
+nserver:      D.NIC.KW 162.88.47.1 2600:2000:3021:0:0:0:0:1
+nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
+nserver:      PCH.NIC.KW 2001:500:14:6118:ad:0:0:1 204.61.216.118
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+ds-rdata:     53599 8 2 C5646A4E1BEE8C2699D3CC3C4F597F8767B85A134FE5EE5DFE8B3D25B1534D3A
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.kw
+
+created:      1992-10-26
+changed:      2019-03-27
+source:       IANA
+

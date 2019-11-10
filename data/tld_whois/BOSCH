@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.bosch
+
+domain:       BOSCH
+
+organisation: Robert Bosch GMBH
+address:      Robert-Bosch-Platz 1
+address:      70839 Gerlingen-Schillerhöhe
+address:      Germany
+
+contact:      administrative
+name:         Corporate Communications
+organisation: Robert Bosch GmbH
+address:      Robert-Bosch-Platz 1
+address:      70839 Gerlingen-Schillerhöhe
+address:      Germany
+phone:        +49 9352 180
+fax-no:       +49 711 811-7612
+e-mail:       ngtld-bosch@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     34683 8 2 17BF6449D9224CA2D30C4B3B941066B9FE7E5E0EE4E6DE60DC14BA83C0EB4FCE
+
+whois:        whois.nic.bosch
+
+status:       ACTIVE
+
+created:      2015-12-18
+changed:      2019-08-16
+source:       IANA
+

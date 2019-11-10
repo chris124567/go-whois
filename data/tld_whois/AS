@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.as
+
+domain:       AS
+
+organisation: AS Domain Registry
+address:      P.O. Box 997303
+address:      Pago Pago  96799
+address:      American Samoa
+
+contact:      administrative
+name:         Registrar
+organisation: AS Domain Registry
+address:      P.O. Box 997303
+address:      Pago Pago  96799
+address:      American Samoa
+phone:        +684 252 9742
+e-mail:       domainmaster@nic.as
+
+contact:      technical
+name:         GDNS Hostmaster
+organisation: GDNS, LLC
+address:      PO Box 32
+address:      Frenchtown New Jersey 08825
+address:      United States
+phone:        +1 212 334 3660
+fax-no:       +1 212 208 2674
+e-mail:       hostmaster@gdns.com
+
+nserver:      C.CI-SERVERS.NET 194.146.106.86 2001:67c:1010:22:0:0:0:53
+nserver:      NS99.DNS.NET.NZ 2001:dce:2000:2:0:0:0:131 202.46.190.131
+nserver:      PCH.NIC.AS 2001:500:14:6111:ad:0:0:1 204.61.216.111
+nserver:      TLD.GDNS.NET 185.17.236.230
+
+whois:        whois.nic.as
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.as
+
+created:      1997-06-12
+changed:      2019-09-04
+source:       IANA
+

@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.weber
+
+domain:       WEBER
+
+organisation: Saint-Gobain Weber SA
+address:      Rue de Brie
+address:      77170 Servon
+address:      France
+
+contact:      administrative
+name:         Digital Marketing Manager
+organisation: Saint-Gobain Weber SA
+address:      Rue de Brie
+address:      77170 Servon
+address:      France
+phone:        +33 1 60 62 13 00
+fax-no:       +33 1 64 05 47 50
+e-mail:       ngtld-weber@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     32799 8 2 67F60D0F656284C11307FBC8402E280BA0E53D83F601EC4ADF2EB54FCA93AAD9
+
+whois:        whois.nic.weber
+
+status:       ACTIVE
+
+created:      2015-12-10
+changed:      2019-08-16
+source:       IANA
+

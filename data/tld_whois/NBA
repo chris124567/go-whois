@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NBA
+
+organisation: NBA REGISTRY, LLC
+address:      645 Fifth Ave New York, New York - 10022
+address:      United States
+
+contact:      administrative
+name:         Senior Director, Digital Rights Strategy & Enforcement
+organisation: NBA REGISTRY, LLC
+address:      645 Fifth Ave New York, New York - 10022
+address:      United States
+phone:        +1 212 407 8000
+fax-no:       +1 212 888 7931
+e-mail:       ngtld-nba@cscglobal.com
+
+contact:      technical
+name:         Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 844-677-2878
+fax-no:       +1 571-434-5401
+e-mail:       technical1@registry.neustar
+
+nserver:      NS1.DNS.NIC.NBA 156.154.144.119 2610:a1:1071:0:0:0:0:77
+nserver:      NS2.DNS.NIC.NBA 156.154.145.119 2610:a1:1072:0:0:0:0:77
+nserver:      NS3.DNS.NIC.NBA 156.154.159.119 2610:a1:1073:0:0:0:0:77
+nserver:      NS4.DNS.NIC.NBA 156.154.156.119 2610:a1:1074:0:0:0:0:77
+nserver:      NS5.DNS.NIC.NBA 156.154.157.119 2610:a1:1075:0:0:0:0:77
+nserver:      NS6.DNS.NIC.NBA 156.154.158.119 2610:a1:1076:0:0:0:0:77
+ds-rdata:     11210 8 1 8CAC7146E17B86F821701E760BA9CB92D67BF796
+ds-rdata:     11210 8 2 78292A7300034CEC379626C5FC6921FDBE43A64C6E67765708245C598FD92802
+ds-rdata:     50266 8 1 1138618AA8F74943EAA5EA018316DE07EDB832E5
+ds-rdata:     50266 8 2 8879EF07AC2C1F853A31E36A40A6378C7FBF8FA35105B4B9701817A0B48B4CE4
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nba.com
+
+created:      2016-07-14
+changed:      2018-08-22
+source:       IANA
+

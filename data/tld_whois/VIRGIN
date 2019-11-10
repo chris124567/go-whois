@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.virgin
+
+domain:       VIRGIN
+
+organisation: Virgin Enterprises Limited
+address:      The Battleship Building
+address:      London, England
+address:      W2 6NB
+address:      United Kingdom
+
+contact:      administrative
+name:         TLD Manager
+organisation: Virgin Enterprises Limited
+address:      The Battleship Building
+address:      London, England
+address:      W2 6NB
+address:      United Kingdom
+phone:        +44.2073132000
+fax-no:       +44.2031263610
+e-mail:       domain_admin@virgin.com
+
+contact:      technical
+name:         Jason Loyer
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 844-677-2878
+fax-no:       +1 571-434-5401
+e-mail:       technical1@registry.neustar
+
+nserver:      A.NIC.VIRGIN 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.VIRGIN 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.VIRGIN 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.VIRGIN 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     24871 8 1 D339608670FDA6194F61DF747A10DD24E16ECAE7
+ds-rdata:     24871 8 2 1006A2ADAC60DFC763D62E9AE99E3267C7FB7799A79D3B13F96271ED8BB40E7D
+
+whois:        whois.nic.virgin
+
+status:       ACTIVE
+remarks:      Registration information: http://www.virgin.com
+
+created:      2015-09-10
+changed:      2019-07-19
+source:       IANA
+

@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.deloitte
+
+domain:       DELOITTE
+
+organisation: Deloitte Touche Tohmatsu
+address:      30 Rockefeller Plaza
+address:      New York, NY 10112-0015
+address:      United States
+
+contact:      administrative
+name:         Manager
+organisation: Deloitte Touche Tohmatsu Services, Inc.
+address:      111 S Wacker Dr
+address:      Chicago, IL 60611
+address:      United States
+phone:        +1 312 486 1191
+e-mail:       dttdomainadmin@deloitte.com
+
+contact:      technical
+name:         Scott E. Smith
+organisation: Deloitte Touche Tohmatsu Services, Inc.
+address:      4022 Sells Drive
+address:      Hermitage, TN 37076
+address:      United States
+phone:        +1 610 479 5957
+e-mail:       dttdomainadmin@deloitte.com
+
+nserver:      A.NIC.DELOITTE 194.169.218.80 2001:67c:13cc:0:0:0:1:80
+nserver:      B.NIC.DELOITTE 185.24.64.80 2a04:2b00:13cc:0:0:0:1:80
+nserver:      C.NIC.DELOITTE 212.18.248.80 2a04:2b00:13ee:0:0:0:0:80
+nserver:      D.NIC.DELOITTE 212.18.249.80 2a04:2b00:13ff:0:0:0:0:80
+ds-rdata:     43989 7 1 F7DABDF701ED2ED63D349D5DDAE4B2776EA541B5
+ds-rdata:     43989 7 2 AF8C96D91EE031DF7DF47231CBEB7A93AE1572F8EB3F71D666FA421E8F55AD67
+ds-rdata:     29626 7 2 456B29B8B2F010F1159BD118E9A3E9FCB29E385E3BF206199379A65E5BAA7F7D
+ds-rdata:     29626 7 1 73C6D3A49646135321DB4B2B68E332E929CEFC71
+
+whois:        whois.nic.deloitte
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.deloitte
+
+created:      2015-12-23
+changed:      2019-04-11
+source:       IANA
+

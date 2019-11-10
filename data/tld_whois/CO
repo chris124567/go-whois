@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.co
+
+domain:       CO
+
+organisation: .CO Internet S.A.S.
+address:      Calle 100 8 A - 49
+address:      Torre B of 507
+address:      Bogotá
+address:      Colombia
+
+contact:      administrative
+name:         Eduardo Santoyo
+organisation: .CO Internet S.A.S.
+address:      Calle 100 8 A - 49
+address:      Torre B of 507
+address:      Bogotá
+address:      Colombia
+phone:        +571 616 9961
+fax-no:       +571 616 9961
+e-mail:       eduardo@cointernet.com.co
+
+contact:      technical
+name:         Gonzalo Romero
+organisation: .CO Internet S.A.S.
+address:      Calle 100 8 A - 49
+address:      Torre B of 507
+address:      Bogotá
+address:      Colombia
+phone:        +571 616 9961
+fax-no:       +571 616 9961
+e-mail:       gonzalo@cointernet.com.co
+
+nserver:      NS1.CCTLD.CO 156.154.100.25 2001:502:2eda:0:0:0:0:21
+nserver:      NS2.CCTLD.CO 156.154.101.25 2001:502:ad09:0:0:0:0:21
+nserver:      NS3.CCTLD.CO 156.154.102.25 2610:a1:1009:0:0:0:0:21
+nserver:      NS4.CCTLD.CO 156.154.103.25 2610:a1:1010:0:0:0:0:21
+nserver:      NS5.CCTLD.CO 156.154.104.25 2610:a1:1011:0:0:0:0:21
+nserver:      NS6.CCTLD.CO 156.154.105.25 2610:a1:1012:0:0:0:0:21
+ds-rdata:     21754 8 2 C30634014C0752DA93B0633ED4CE641B63826A5DED820027F4117CA0C32050A0
+ds-rdata:     21754 8 1 8B9B8FDA21B4CF6FC3E97A31FC0D77C1CB7E70EE
+ds-rdata:     10384 8 1 DF157833AAD57F3561F3A47F178BA46E7E7183DC
+ds-rdata:     10384 8 2 A76358B4C22E95C2C4A56DB8ADC923779E0829142D7C51B04E54769C86407D70
+
+whois:        whois.nic.co
+
+status:       ACTIVE
+remarks:      Registration information: http://www.cointernet.com.co
+
+created:      1991-12-24
+changed:      2017-07-19
+source:       IANA
+

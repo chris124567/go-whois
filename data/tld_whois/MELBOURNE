@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.melbourne
+
+domain:       MELBOURNE
+
+organisation: The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation
+address:      Level 20, 80 Collins Street
+address:      Melbourne
+address:      Victoria 3000
+address:      Australia
+
+contact:      administrative
+name:         Senior Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 571 434 5400
+fax-no:       +1 571 434 5735
+e-mail:       technical1@registry.neustar
+
+contact:      technical
+name:         Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 844 677 2878
+fax-no:       +1 571 434 5401
+e-mail:       technical1@registry.neustar
+
+nserver:      A.NIC.MELBOURNE 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.MELBOURNE 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.MELBOURNE 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.MELBOURNE 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     57856 8 1 D1CC74CD88318559962BDFB56525C822D2A8A11F
+ds-rdata:     57856 8 2 E71A2E50EE30225FA38F059E967A9F700545E3C7E8506B42D73778D3143EBD9B
+
+whois:        whois.nic.melbourne
+
+status:       ACTIVE
+remarks:      Registration information: https://www.live.melbourne/
+
+created:      2014-07-03
+changed:      2019-08-07
+source:       IANA
+

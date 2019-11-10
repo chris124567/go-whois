@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.glass
+
+domain:       GLASS
+
+organisation: Binky Moon, LLC
+address:      Donuts Inc.
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
+address:      United States
+
+contact:      administrative
+name:         Serina Ness
+organisation: Donuts Inc.
+address:      Donuts Inc.
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
+address:      United States
+phone:        +1.425.283.8248
+fax-no:       +1.425.671.0020
+e-mail:       serina@donuts.email
+
+contact:      technical
+name:         Ben Levac
+organisation: Donuts Inc.
+address:      Donuts Inc.
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       ben@donuts.email
+
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
+ds-rdata:     12799 8 1 9C1F9CB19B734D8E151F72C54FA50C46A561F937
+ds-rdata:     12799 8 2 F1D217D39494BB123262FDC44F437C9D708653B0A83E9F43AB302091DAC72865
+
+whois:        whois.nic.glass
+
+status:       ACTIVE
+remarks:      Registration information: http://www.donuts.domains/
+
+created:      2013-12-19
+changed:      2019-08-01
+source:       IANA
+

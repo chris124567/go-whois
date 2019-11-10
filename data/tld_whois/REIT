@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.reit
+
+domain:       REIT
+
+organisation: National Association of Real Estate Investment Trusts, Inc.
+address:      1875 I ST NW
+address:      Washington, DC 20006
+address:      United States
+
+contact:      administrative
+name:         VP, Operations
+organisation: National Association of Real Estate Investment Trusts, Inc.
+address:      1875 I ST NW
+address:      Washington, DC 20006
+address:      United States
+phone:        +1.2027399400
+fax-no:       +1.2027399401
+e-mail:       rootzone@nareit.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.REIT 194.169.218.38 2001:67c:13cc:0:0:0:1:38
+nserver:      B.NIC.REIT 185.24.64.38 2a04:2b00:13cc:0:0:0:1:38
+nserver:      C.NIC.REIT 212.18.248.38 2a04:2b00:13ee:0:0:0:0:38
+nserver:      D.NIC.REIT 212.18.249.38 2a04:2b00:13ff:0:0:0:0:38
+ds-rdata:     44512 8 1 3451296E8F2FFE68EB14B400A686FE1DA12E3941
+ds-rdata:     44512 8 2 661FBDE636973834F5D417D3897DDF8590461DA6F020CFAA4274718DD926C523
+
+whois:        whois.nic.reit
+
+status:       ACTIVE
+remarks:      Registration information: http://www.reit.com
+
+created:      2014-10-23
+changed:      2019-03-18
+source:       IANA
+

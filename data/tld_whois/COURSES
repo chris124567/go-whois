@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.courses
+
+domain:       COURSES
+
+organisation: OPEN UNIVERSITIES AUSTRALIA PTY LTD
+address:      Level 1, 473 Bourke Street,
+address:      Melbourne,
+address:      VIC 3000
+address:      Australia
+
+contact:      administrative
+name:         Senior Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 571 434 5400
+fax-no:       +1 571 434 5735
+e-mail:       technical1@registry.neustar
+
+contact:      technical
+name:         Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 844 677 2878
+fax-no:       +1 571 434 5401
+e-mail:       technical1@registry.neustar
+
+nserver:      A.NIC.COURSES 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.COURSES 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.COURSES 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.COURSES 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     17152 8 1 B73BF1B4349938FE78983BC109E8A2C0DAACD339
+ds-rdata:     17152 8 2 02DEE3F9EB388216ADCA7C11EA5E117BD018FB79E73B13A939DA7B574126A769
+
+whois:        whois.nic.courses
+
+status:       ACTIVE
+remarks:      Registration information: https://www.get.courses/
+
+created:      2015-02-19
+changed:      2019-08-07
+source:       IANA
+

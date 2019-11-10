@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GW
+
+organisation: Autoridade Reguladora Nacional - Tecnologias de Informação e Comunicação da Guiné-Bissau
+address:      Avenida Domingos Ramos
+address:      Praça Ernesto Che Guevara
+address:      Bissau  1372
+address:      Guinea-bissau
+
+contact:      administrative
+name:         Frank Barbosa de Oliveira
+organisation: Autoridade Reguladora Nacional - Tecnologias de Informação e Comunicação da Guiné-Bissau
+address:      Avenida Domingos Ramos
+address:      Praça Ernesto Che Guevara
+address:      Bissau  1372
+address:      Guinea-bissau
+phone:        +245 3204874
+fax-no:       +245 3204876
+e-mail:       frank.i.oliveira@arn.gw
+
+contact:      technical
+name:         Assis Neves Guerreiro
+organisation: Associação DNS.PT (DNS.PT)
+address:      Rua Latino Coelho nº13 5ºpiso
+address:      Lisboa 1050-132
+address:      Portugal
+phone:        +351 211308200
+fax-no:       +351 211312720
+e-mail:       assis.guerreiro@dns.pt
+
+nserver:      GW01.DNS.PT 185.39.208.19 2a04:6d80:0:0:0:0:0:19
+nserver:      GW03.DNS.PT 2001:500:14:6114:ad:0:0:1 204.61.216.114
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+ds-rdata:     31518 10 2 CAE77FE2299B3A08A4C78B400327C2A62BF65421D4BD98836228800C3B0722AA
+
+status:       ACTIVE
+
+created:      1997-02-04
+changed:      2017-10-03
+source:       IANA
+

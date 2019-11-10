@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.registry.pf
+
+domain:       PF
+
+organisation: Gouvernement de la Polynésie française
+address:      Avenue POUVANAA A OOPA
+address:      PAPEETE TAHITI 98714
+address:      French Polynesia
+
+contact:      administrative
+name:         Chef de service
+organisation: Direction générale de l’économie numérique
+address:      Immeuble Toriki – Rue Dumont d’Urville
+address:      PAPEETE TAHITI 98714
+address:      French Polynesia
+phone:        +689 40 544 860
+fax-no:       +689 40 532 801
+e-mail:       contact@dgen.gov.pf
+
+contact:      technical
+name:         Chef de section Systemes & Réseaux
+organisation: VINI SA
+address:      immeuble jissang - BP 40001
+address:      PAPEETE TAHITI 98713
+address:      French Polynesia
+phone:        +689 479958
+fax-no:       +689 479 915
+e-mail:       support-technique@mana.pf
+
+nserver:      NS1.MANA.PF 202.3.225.10
+nserver:      NS2.MANA.PF 202.3.225.20
+
+whois:        whois.registry.pf
+
+status:       ACTIVE
+
+created:      1996-03-19
+changed:      2015-01-23
+source:       IANA
+

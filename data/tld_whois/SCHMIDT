@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.schmidt
+
+domain:       SCHMIDT
+
+organisation: SALM S.A.S.
+address:      5, rue Clemenceau
+address:      68660 LIEPVRE
+address:      France
+
+contact:      administrative
+name:         Francine Hattermann
+organisation: SALM S.A.S.
+address:      5, rue Clemenceau
+address:      68660 LIEPVRE
+address:      France
+phone:        +33389582524
+fax-no:       +33389582591
+e-mail:       administrative-contact-schmidt@salm.fr
+
+contact:      technical
+name:         Patrick Haist
+organisation: SALM S.A.S.
+address:      5, rue Clemenceau
+address:      68660 LIEPVRE
+address:      France
+phone:        +33389582376
+fax-no:       +33389582591
+e-mail:       technical-contact-schmidt@salm.fr
+
+nserver:      A.NIC.SCHMIDT 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.SCHMIDT 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.SCHMIDT 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.SCHMIDT 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     42247 8 2 7F016EC1705918693D21779FE13619BC039E9D59ED16ECEE227DEE57A872FF41
+ds-rdata:     42247 8 1 EEED5963D9892F081890097E363A0EC1E404269A
+
+whois:        whois.nic.schmidt
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.schmidt/
+
+created:      2014-06-19
+changed:      2019-07-26
+source:       IANA
+

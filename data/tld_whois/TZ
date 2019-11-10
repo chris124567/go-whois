@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.tznic.or.tz
+
+domain:       TZ
+
+organisation: Tanzania Communications Regulatory Authority
+address:      20 Sam Nujoma Road
+address:      Mawasiliano Towers
+address:      14414 Dar es Salaam
+address:      Tanzania, United Republic Of
+
+contact:      administrative
+name:         Director - ICT and Application Services
+organisation: Tanzania Communications Regulatory Authority
+address:      20 Sam Nujoma Road
+address:      Mawasiliano Towers
+address:      14414 Dar es Salaam
+address:      Tanzania, United Republic Of
+phone:        +255 22 2199760–8
+fax-no:       +255 22 2412010
+e-mail:       connie.francis@tcra.go.tz
+
+contact:      technical
+name:         Senior ICT Officer
+organisation: Tanzania Communications Regulatory Authority
+address:      20 Sam Nujoma Road
+address:      Mawasiliano Towers
+address:      14414 Dar es Salaam
+address:      Tanzania, United Republic Of
+phone:        +255 22 2199760–8
+fax-no:       +255 22 2412010
+e-mail:       simon.balthazar@tcra.go.tz
+
+nserver:      D.EXT.NIC.CZ 193.29.206.2 2001:678:1:0:0:0:0:2
+nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
+nserver:      NS-TZ.AFRINIC.NET 196.216.168.20 2001:43f8:120:0:0:0:0:20
+nserver:      NS.ANYCAST.CO.TZ 2001:500:14:6015:ad:0:0:1 204.61.216.15
+nserver:      NS2.TZNIC.OR.TZ 196.216.162.67 2001:43f8:e0:1:0:0:0:67
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+ds-rdata:     35251 10 2 c248af42d75ca88355736fe3e5209e844efdd6909a1b282fbfa0f7048c37a913
+
+whois:        whois.tznic.or.tz
+
+status:       ACTIVE
+remarks:      Registration information: https://karibu.tz/
+
+created:      1995-07-14
+changed:      2019-11-07
+source:       IANA
+

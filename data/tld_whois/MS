@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.ms
+
+domain:       MS
+
+organisation: MNI Networks Ltd.
+address:      Olveston Drive
+address:      Olveston Salem
+address:      Montserrat
+
+contact:      administrative
+name:         Director, Marketing and Development
+organisation: MNI Networks Ltd.
+address:      Olveston Drive
+address:      Olveston Salem
+address:      Montserrat
+phone:        +1 664 491 6386
+e-mail:       info@mninet.ms
+
+contact:      technical
+name:         Chief Technical Officer
+organisation: MNI Networks Ltd.
+address:      Olveston Drive
+address:      Olveston Salem
+address:      Montserrat
+phone:        +1 664 491 6386
+e-mail:       regsupport@mninet.ms
+
+nserver:      MS-NS.ANYCAST.PCH.NET 2001:500:14:6033:ad:0:0:1 204.61.216.33
+nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
+
+whois:        whois.nic.ms
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.ms
+
+created:      1997-03-06
+changed:      2019-09-26
+source:       IANA
+

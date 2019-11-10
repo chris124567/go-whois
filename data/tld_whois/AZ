@@ -1,0 +1,41 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AZ
+
+organisation: IntraNS
+address:      AZ1000 Baku
+address:      ap 30/34 home 35 Zarifa Aliyeva street
+address:      Azerbaijan
+
+contact:      administrative
+name:         Faig Farmanov
+organisation: IntraNS
+address:      AZ1000 Baku
+address:      ap 30/34 home 35 Zarifa Aliyeva street
+address:      Azerbaijan
+phone:        +994 12 4980522
+fax-no:       +994 12 4980522
+e-mail:       fa@fa.az
+
+contact:      technical
+name:         Timur Khanjanov
+organisation: IntraNS
+address:      AZ1000 Baku
+address:      ap 30/34 home 35 Zarifa Aliyeva street
+address:      Azerbaijan
+phone:        +994 12 4939319
+e-mail:       intel@intrans.baku.az
+
+nserver:      AZ.HOSTMASTER.UA 195.47.253.13 2001:67c:258:0:0:0:0:13
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+ds-rdata:     48544 8 2 4cb64b087166bd2a837efcedc5d210f3ffbedb7e6535998b27a1e43b948967cc
+
+status:       ACTIVE
+remarks:      Registration information: http://www.whois.az/
+
+created:      1993-08-25
+changed:      2019-09-11
+source:       IANA
+

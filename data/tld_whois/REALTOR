@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       REALTOR
+
+organisation: Real Estate Domains LLC
+address:      3029 Prospect Ave.
+address:      Cleveland, OH  44115
+address:      United States
+
+contact:      administrative
+name:         F. Matthew Embrescia
+organisation: Real Estate Domains LLC
+address:      3029 Prospect Ave.
+address:      Cleveland, OH  44115
+address:      United States
+phone:        216-361-1000
+fax-no:       216-426-1400
+e-mail:       admin@get.realtor
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign Inc.
+address:      12061 Bluemont Way
+address:      Reston, Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     36705 8 2 AF4FF624B3D724FE07CB01C358E94911B9D3F1E0FAAAEA9EF2D3A26C0C60002B
+
+status:       ACTIVE
+remarks:      Registration information: https://www.get.realtor
+
+created:      2014-07-24
+changed:      2019-08-19
+source:       IANA
+

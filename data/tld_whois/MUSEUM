@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.museum
+
+domain:       MUSEUM
+
+organisation: Museum Domain Management Association
+address:      International Council of Museums
+address:      22  rue de Palestro
+address:      75002 Paris
+address:      France
+
+contact:      administrative
+name:         Account Manager
+organisation: AFNIC
+address:      1 rue Stephenson
+address:      Immeuble Le Stephenson
+address:      78180 Montigny-Le-Bretonneux
+address:      France
+phone:        +33139308300
+fax-no:       +33 139308301
+e-mail:       museum@afnic.fr
+
+contact:      technical
+name:         TLD Technical Contact
+organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
+address:      Immeuble Le Stephenson
+address:      1, rue Stephenson
+address:      78180 Montigny-Le-Bretonneux
+address:      France
+phone:        +33 1 39 30 83 00
+fax-no:       +33 1 39 30 83 01
+e-mail:       pocmuseum@afnic.fr
+
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+ds-rdata:     34597 8 2 573e91cdc458f93df85253b0b94f9c2fa39bbec1d0ff82a2063fe043dfa3a1a8
+ds-rdata:     53111 8 2 07270B11106E18C99EA85FC48A92C6D9DC519AC9F818D419B359B4A6DA7D1AEE
+
+whois:        whois.nic.museum
+
+status:       ACTIVE
+remarks:      Registration information: http://about.museum
+
+created:      2001-10-20
+changed:      2019-01-24
+source:       IANA
+

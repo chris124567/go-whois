@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois-alsace.nic.fr
+
+domain:       ALSACE
+
+organisation: REGION GRAND EST
+address:      1, Place Adrien Zeller
+address:      67070 Strasbourg
+address:      France
+
+contact:      administrative
+name:         David FIGUIER
+organisation: REGION GRAND EST
+address:      1, Place Adrien Zeller
+address:      67070 Strasbourg
+address:      France
+phone:        +33 388156540
+fax-no:       ++33388156815
+e-mail:       contact@mondomaine.alsace
+
+contact:      technical
+name:         TLD Technical Contact
+organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
+address:      Immeuble Le Stephenson
+address:      1, rue Stephenson
+address:      78180 Montigny-Le-Bretonneux
+address:      France
+phone:        +33 1 39 30 83 00
+fax-no:       +33 1 39 30 83 01
+e-mail:       pocalsace@afnic.fr
+
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+ds-rdata:     53312 8 2 536d295caf7751056e425f14cfec2c239824af4dbd1bc947211dc1d9920c1133
+ds-rdata:     59651 8 2 404F9FDE3095EEE0BE0FAB74D81B951D0C011CE2DDE3A960715E50D7E83FD7CA
+
+whois:        whois-alsace.nic.fr
+
+status:       ACTIVE
+remarks:      Registration information: http://www.mondomaine.alsace
+
+created:      2014-09-18
+changed:      2019-01-30
+source:       IANA
+

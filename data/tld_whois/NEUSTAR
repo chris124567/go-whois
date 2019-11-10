@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NEUSTAR
+
+organisation: NeuStar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+
+contact:      administrative
+name:         Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 (844) 677-2878
+fax-no:       +1 (571) 434-5401
+e-mail:       technical1@registry.neustar
+
+contact:      technical
+name:         Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 (844) 677-2878
+fax-no:       +1 (571) 434-5401
+e-mail:       technical1@registry.neustar
+
+nserver:      NS1.DNS.NIC.NEUSTAR 2001:502:d399:0:0:0:0:250 204.74.112.250
+nserver:      NS2.DNS.NIC.NEUSTAR 204.74.113.250 2610:a1:1007:0:0:0:0:250
+nserver:      NS3.DNS.NIC.NEUSTAR 199.7.66.250 2610:a1:1008:0:0:0:0:250
+nserver:      NS4.DNS.NIC.NEUSTAR 199.7.67.250 2001:502:100e:0:0:0:0:250
+nserver:      NS5.DNS.NIC.NEUSTAR 192.100.59.250 2610:a1:1013:0:0:0:0:250
+nserver:      NS6.DNS.NIC.NEUSTAR 198.133.199.250 2610:a1:1021:0:0:0:0:250
+ds-rdata:     10205 8 1 33B4D5A00F3CE58745AEFA2D2454ECE8D44FEA79
+ds-rdata:     10205 8 2 1FE9AB86833B13A7D0C334D891B1581D5FB81E5829E670352355755306385C6C
+ds-rdata:     39529 8 1 b75508f9283e7594374e6810b64b3d26cac1978a
+ds-rdata:     39529 8 2 9e8107e11953268e4e7c963bdc5b43edee14662b3369b22119afbd98851b4ff7
+
+status:       ACTIVE
+remarks:      Registration information: http://www.neustar.biz
+
+created:      2014-02-06
+changed:      2019-06-28
+source:       IANA
+

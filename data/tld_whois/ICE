@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.ice
+
+domain:       ICE
+
+organisation: IntercontinentalExchange, Inc.
+address:      5660 New Northside Dr NW
+address:      Atlanta, GA 30328
+address:      United States
+
+contact:      administrative
+name:         CISO
+organisation: ICE
+address:      5660 New Northside Dr NW
+address:      Atlanta, GA 30328
+address:      United States
+phone:        770 857 4700
+e-mail:       aol-loop@theice.com
+
+contact:      technical
+name:         Bonnie Bryant
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     18534 8 2 78BB0D88D5F5D8D59C60BF7D062C87D5030D337C08AC0087071FE5CD709ED9AB
+
+whois:        whois.nic.ice
+
+status:       ACTIVE
+
+created:      2015-07-09
+changed:      2019-08-20
+source:       IANA
+

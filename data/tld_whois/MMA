@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois-mma.nic.fr
+
+domain:       MMA
+
+organisation: MMA IARD
+address:      14, boulevard Marie et Alexandre Oyon
+address:      72030 LE MANS
+address:      France
+
+contact:      administrative
+name:         Account Manager
+organisation: AFNIC
+address:      1, rue Stephenson
+address:      Immeuble Le Stephenson
+address:      78180 Montigny-Le-Bretonneux
+address:      France
+phone:        +33 139308315
+fax-no:       +33 139308301
+e-mail:       groupemma@afnic.fr
+
+contact:      technical
+name:         TLD Technical Contact
+organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
+address:      Immeuble Le Stephenson
+address:      1, rue Stephenson
+address:      78180 Montigny-Le-Bretonneux
+address:      France
+phone:        +33 1 39 30 83 00
+fax-no:       +33 1 39 30 83 01
+e-mail:       pocmma@afnic.fr
+
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+ds-rdata:     54041 8 2 0658e75221ece0ab0f8856e1d726ad5c898e911ef30e2f6e48c62217e391fef2
+ds-rdata:     18437 8 2 CC5B8A8FEE878F723D21CAD8D014D74235D3E67055739E235CE8D9F3E4457059
+
+whois:        whois-mma.nic.fr
+
+status:       ACTIVE
+remarks:      Registration information: http://www.mma.fr
+
+created:      2015-02-27
+changed:      2019-08-12
+source:       IANA
+

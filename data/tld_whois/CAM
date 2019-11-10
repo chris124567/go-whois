@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.cam
+
+domain:       CAM
+
+organisation: AC Webconnecting Holding B.V.
+address:      WTC Beurs Plein 37
+address:      Kantoor 1556
+address:      Postbus 30006 3001DA Rotterdam
+address:      Netherlands
+
+contact:      administrative
+name:         CTO
+organisation: AC Webconnecting Holding B.V.
+address:      WTC Beurs Plein 37
+address:      Kantoor 1556
+address:      Postbus 30006 3001DA Rotterdam
+address:      Netherlands
+phone:        +31 1 0 4 05 44 73
+fax-no:       +33 4 42 50 69 48
+e-mail:       dotcam@acwebconnecting.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.CAM 194.169.218.77 2001:67c:13cc:0:0:0:1:77
+nserver:      B.NIC.CAM 185.24.64.77 2a04:2b00:13cc:0:0:0:1:77
+nserver:      C.NIC.CAM 212.18.248.77 2a04:2b00:13ee:0:0:0:0:77
+nserver:      D.NIC.CAM 212.18.249.77 2a04:2b00:13ff:0:0:0:0:77
+ds-rdata:     27179 8 2 f8c48547453f63fcc5bf62884a1f885fe50d467079e7b17da3c8d0a2dc92474d
+ds-rdata:     5089 8 2 a17021ada565f6b13749741dc51a25b0f524bae6b753343155cfe8426cd29462
+
+whois:        whois.nic.cam
+
+status:       ACTIVE
+remarks:      Registration information: https://nic.cam/
+
+created:      2016-06-09
+changed:      2019-03-28
+source:       IANA
+

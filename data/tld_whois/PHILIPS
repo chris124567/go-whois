@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.philips
+
+domain:       PHILIPS
+
+organisation: Koninklijke Philips N.V.
+address:      High Tech Campus 5,
+address:      5656AE, Eindhoven
+address:      Netherlands
+
+contact:      administrative
+name:         Ingrid Baele
+organisation: Philips Intellectual Property and Standards
+address:      High Tech Campus 5,
+address:      5656AE, Eindhoven
+address:      Netherlands
+phone:        +31402740552
+fax-no:       +31402743489
+e-mail:       baele.i@philips.com
+
+contact:      technical
+name:         Wiel Deguelle
+organisation: Philips Intellectual Property and Standards
+address:      High Tech Campus 5,
+address:      5656AE, Eindhoven
+address:      Netherlands
+phone:        +31622470330
+fax-no:       +31402743489
+e-mail:       wiel.deguelle@philips.com
+
+nserver:      A.NIC.PHILIPS 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.PHILIPS 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.PHILIPS 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.PHILIPS 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     16027 8 2 7E358A0F0EF3AEB949129FF0CDC99217520670330E32B08A87421C2F5D02F05F
+ds-rdata:     16027 8 1 27B6E5AE12558470199109C704F44A2CBADBC165
+
+whois:        whois.nic.philips
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.philips
+
+created:      2015-02-05
+changed:      2019-07-18
+source:       IANA
+

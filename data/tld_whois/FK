@@ -1,0 +1,41 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FK
+
+organisation: Falkland Islands Government
+address:      Ross Road
+address:      Stanley  FIQQ 1ZZ
+address:      Falkland Islands (malvinas)
+
+contact:      administrative
+name:         Communications Regulator
+organisation: Falkland Islands Government
+address:      Legal & Regulation Directorate
+address:      Stanley  FIQQ 1ZZ
+address:      Falkland Islands (Malvinas)
+phone:        +500 28459
+fax-no:       +500 27306
+e-mail:       regulator.telecoms@sec.gov.fk
+
+contact:      technical
+name:         IP Networks Manager
+organisation: Sure South Atlantic Ltd.
+address:      Ross Road
+address:      Stanley  FIQQ 1ZZ
+address:      Falkland Islands (malvinas)
+phone:        + 500 20800
+fax-no:       + 500 20890
+e-mail:       ipn.support@sure.co.fk
+
+nserver:      NS1.HORIZON.NET.FK 195.248.193.250
+nserver:      NS2.HORIZON.NET.FK 195.248.193.251
+
+status:       ACTIVE
+remarks:      Registration information: http://www.sure.co.fk
+
+created:      1997-03-26
+changed:      2018-10-06
+source:       IANA
+

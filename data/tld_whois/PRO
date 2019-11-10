@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.afilias.net
+
+domain:       PRO
+
+organisation: Afilias Limited
+address:      4th Floor, International House, 3 Harbourmaster Pl
+address:      IFSC
+address:      Dublin 1
+address:      Ireland
+
+contact:      administrative
+name:         Afilias TLD Administrator
+organisation: Afilias Limited
+address:      2 La Touche House, IFSC
+address:      Dublin 1
+address:      Ireland
+phone:        +353 1 854 1100
+fax-no:       +353 1 791 8569
+e-mail:       tld-admin-poc@afilias.info
+
+contact:      technical
+name:         Afilias TLD Technical Administrator
+organisation: Afilias Limited
+address:      2 La Touche House, IFSC
+address:      Dublin 1
+address:      Ireland
+phone:        +353 1 854 1100
+fax-no:       +353 1 791 8569
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.PRO.AFILIAS-NST.INFO 199.182.0.1 2001:500:c0:0:0:0:0:1
+nserver:      A2.PRO.AFILIAS-NST.INFO 199.182.32.1 2001:500:e0:0:0:0:0:1
+nserver:      B0.PRO.AFILIAS-NST.ORG 199.182.1.1 2001:500:c1:0:0:0:0:1
+nserver:      B2.PRO.AFILIAS-NST.ORG 199.182.40.1 2001:500:e1:0:0:0:0:1
+nserver:      C0.PRO.AFILIAS-NST.INFO 199.182.16.1 2001:500:d0:0:0:0:0:1
+nserver:      D0.PRO.AFILIAS-NST.ORG 199.182.17.1 2001:500:d1:0:0:0:0:1
+ds-rdata:     47221 7 1 00cbfcbdc9c6e659fb2385b3982e93e98d71052d
+ds-rdata:     47221 7 2 5a10389e282cb03f1083c1662b218b97cfe61024b991c7c5d8bb5685ad6487ca
+
+whois:        whois.afilias.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.registry.pro/
+
+created:      2002-05-08
+changed:      2019-08-19
+source:       IANA
+

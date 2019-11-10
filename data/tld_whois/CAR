@@ -1,0 +1,59 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.uniregistry.net
+
+domain:       CAR
+
+organisation: Cars Registry Limited
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands
+address:      PO Box 1361, George Town, KY1-1108
+address:      Cayman Islands
+
+contact:      administrative
+name:         Managing Director
+organisation: Cars Registry Limited
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands
+address:      PO Box 1361, George Town, KY1-1108
+address:      Cayman Islands
+phone:        +1.3457496263
+fax-no:       +1.3457466263
+e-mail:       contact@uniregistry.com
+
+contact:      technical
+name:         Chief Technical Officer - Registry Operations
+organisation: Uniregistry Inc.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands
+address:      PO Box 1361, George Town, KY1-1108
+address:      Cayman Islands
+phone:        +1.3457496263
+fax-no:       +1.3457466263
+e-mail:       ops@uniregistry.com
+
+nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
+nserver:      NS2.UNIREGISTRY.INFO 64.96.245.53
+nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+ds-rdata:     22307 5 1 A829D7EAE806E497132B46179DCC5B8824010320
+ds-rdata:     22307 5 2 EF40B9A2A119F93103931DB003BE4EF9B2C97437DA26F4EA519555499A71B64E
+ds-rdata:     64561 5 2 D89C304C66E6377AA7825C3A1A348DE1EAE69D6FA75902A6F927F903E2B91E58
+ds-rdata:     14236 5 1 949A3158DB82EBC73FA34ADAA6B6088CA1CA7459
+ds-rdata:     64561 5 1 26020EE1BEBE558D91ED45B54890B8C9FCEB1940
+ds-rdata:     14236 5 2 A35069C1E396B842C2BCBEB250C72E33C41FFDB0B053074D35A47C5B3E99791A
+
+whois:        whois.uniregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://uniregistry.link
+
+created:      2015-08-26
+changed:      2019-08-15
+source:       IANA
+

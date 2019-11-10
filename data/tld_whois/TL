@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.tl
+
+domain:       TL
+
+organisation: Autoridade Nacional de Comunicações
+address:      Avenida Bispo de Medeiros 8
+address:      Dili 10000
+address:      Timor-leste
+
+contact:      administrative
+name:         Chairperson
+organisation: Autoridade Nacional  de Comunicações (ANC) of Timor-Leste
+address:      Avenida Bispo de Medeiros 8
+address:      Dili 10000
+address:      Timor-Leste
+phone:        +670 3311415
+e-mail:       cctld@anc.tl
+
+contact:      technical
+name:         Garth Miller
+organisation: CoCCA Registry Services (NZ) Limited
+address:      11a Wynyard Street, Devonport
+address:      Auckland
+address:      North Island 0744
+address:      New Zealand
+phone:        +64 9 446 6370
+e-mail:       noc@cocca.org.nz
+
+nserver:      NS.ANYCAST.NIC.TL 2001:500:14:6019:ad:0:0:1 204.61.216.19
+nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
+ds-rdata:     25307 8 2 BC0412D59817424A34040676F1AE1205B1F33FC9510E7E30114711851FFCEDE4
+
+whois:        whois.nic.tl
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.tl
+
+created:      2005-03-23
+changed:      2019-08-28
+source:       IANA
+

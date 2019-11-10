@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.tatamotors
+
+domain:       TATAMOTORS
+
+organisation: Tata Motors Ltd
+address:      1st Floor
+address:      Service Road, Teen Hath Naka, Thane West
+address:      Thane, Maharashtra 400604
+address:      India
+
+contact:      administrative
+name:         General Manager, IT Strategy & Solutions
+organisation: Tata Motors Ltd
+address:      1st Floor
+address:      Service Road, Teen Hath Naka, Thane West
+address:      Thane, Maharashtra 400604
+address:      India
+phone:        +91 22 6665 8282
+fax-no:       +91 22 6665 7782
+e-mail:       ngtld-tatamotors@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, inc.
+address:      Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     26643 8 2 EFBEADA1F256335107E55B0A6199BFF4027D89D461CCD6D574284E4B34906365
+
+whois:        whois.nic.tatamotors
+
+status:       ACTIVE
+
+created:      2015-07-16
+changed:      2019-08-16
+source:       IANA
+

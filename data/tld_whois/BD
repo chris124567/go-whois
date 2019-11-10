@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BD
+
+organisation: Posts and Telecommunications Division
+address:      Ministry of Posts, Telecommunications and Information Technology
+address:      Bangladesh Secretariat
+address:      Abdul Ghani Road
+address:      Dhaka 1000
+address:      Bangladesh
+
+contact:      administrative
+name:         Director (Telecom)
+organisation: Posts and Telecommunications Division
+address:      Ministry of Posts, Telecommunications and Information Technology
+address:      Bangladesh Secretariat
+address:      Abdul Ghani Road
+address:      Dhaka 1000
+address:      Bangladesh
+phone:        +880 2 9574446
+fax-no:       +880 2 9515599
+e-mail:       dirt@ptd.gov.bd
+
+contact:      technical
+name:         Divisional Engineer (Administration and Coordination)
+organisation: Bangladesh Telecommunications
+organisation: Company Limited (BTCL)
+address:      Telejogajog Bhaban, 37/E, Eskaton Garden
+address:      Dhaka  1000
+address:      Bangladesh
+phone:        +880 2 9331798
+fax-no:       +880 2 9357877
+e-mail:       deanc@btcl.com.bd
+
+nserver:      BD-NS.ANYCAST.PCH.NET 2001:500:14:6108:ad:0:0:1 204.61.216.108
+nserver:      DNS.BD 123.49.12.112 2407:5000:88:5:0:0:0:3
+nserver:      JAMUNA.BTCL.NET.BD 203.112.194.231 2407:5000:88:4:0:0:0:231
+nserver:      SURMA.BTCL.NET.BD 203.112.194.232 2407:5000:88:4:0:0:0:232
+
+status:       ACTIVE
+remarks:      Registration information: http://domainreg.btcl.com.bd/
+
+created:      1999-05-20
+changed:      2017-03-03
+source:       IANA
+

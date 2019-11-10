@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.fan
+
+domain:       FAN
+
+organisation: Asiamix Digital Ltd
+address:      Unit 15, 1/F, Block 2, Office Building
+address:      96 Siena Avenue, Discovery Bay North
+address:      Hong Kong
+
+contact:      administrative
+name:         Serina Ness
+organisation: Donuts Inc.
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
+address:      United States
+phone:        +1.425.283.8248
+fax-no:       +1.425.671.0020
+e-mail:       serina@donuts.email
+
+contact:      technical
+name:         Ben Levac
+organisation: Donuts Inc.
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       ben@donuts.email
+
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
+ds-rdata:     9160 8 1 96EF89014B0022D3D69079A2B148909AD3C24882
+ds-rdata:     9160 8 2 D41201493BC82422ED89E1E746A176520A4DEC17438632DD0F8B520FE6AEE311
+
+whois:        whois.nic.fan
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.fan/
+
+created:      2015-02-28
+changed:      2019-08-01
+source:       IANA
+

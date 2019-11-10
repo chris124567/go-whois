@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.wien
+
+domain:       WIEN
+
+organisation: punkt.wien GmbH
+address:      Matznergasse 17
+address:      1140 Wien
+address:      Austria
+
+contact:      administrative
+name:         Ronald Schwaerzler
+organisation: punkt.wien GmbH
+address:      Matznergasse 17
+address:      1140 Wien
+address:      Austria
+phone:        +431981160
+fax-no:       +43198116111
+e-mail:       ronald.schwaerzler@nic.wien
+
+contact:      technical
+name:         Technical Operations
+organisation: RyCE GmbH
+address:      Matznergasse 17
+address:      1140 Wien
+address:      Austria
+phone:        +431981160
+fax-no:       +43198116111
+e-mail:       tech@dns.business
+
+nserver:      NS1.RYCE-RSP.COM 193.56.204.153 2a0c:8f40:0:701:0:0:0:153
+nserver:      NSA.NETNOD.SE 194.58.192.33 2a01:3f1:33:0:0:0:0:53
+nserver:      NSP.NETNOD.SE 194.58.198.33 2a01:3f1:3033:0:0:0:0:53
+nserver:      NSU.NETNOD.SE 185.42.137.99 2a01:3f0:400:0:0:0:0:33
+ds-rdata:     57889 8 2 e2aa9ba196c7d4f10a8320a710fc24ad4bc86ce362239c307af3b875d5cf44c7
+
+whois:        whois.nic.wien
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.wien
+
+created:      2013-12-19
+changed:      2019-09-18
+source:       IANA
+

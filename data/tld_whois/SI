@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.register.si
+
+domain:       SI
+
+organisation: Academic and Research Network of Slovenia (ARNES)
+address:      Tehnološki park 18
+address:      Ljubljana  1000
+address:      Slovenia
+
+contact:      administrative
+name:         Barbara Povše
+organisation: Academic and Research Network of Slovenia (ARNES)
+address:      Tehnološki park 18
+address:      Ljubljana  1000
+address:      Slovenia
+phone:        +386 1 4798800
+fax-no:       +386 1 4798899
+e-mail:       barbara.povse@register.si
+
+contact:      technical
+name:         Benjamin Zwittnig
+organisation: Academic and Research Network of Slovenia (ARNES)
+address:      Tehnološki park 18
+address:      Ljubljana  1000
+address:      Slovenia
+phone:        +386 1 4798800
+fax-no:       +386 1 4798899
+e-mail:       benjamin.zwittnig@register.si
+
+nserver:      B.DNS.SI 194.249.4.44 2001:1470:8000:53:0:0:0:44
+nserver:      C.DNS.SI 192.93.0.4 2001:660:3005:1:0:0:1:2
+nserver:      F.DNS.SI 194.146.106.62 2001:67c:1010:15:0:0:0:53
+nserver:      G.DNS.SI 194.0.1.20 2001:678:4:0:0:0:0:14
+nserver:      H.DNS.SI 2001:500:14:6054:ad:0:0:1 204.61.216.54
+nserver:      I.DNS.SI 194.0.25.22 2001:678:20:0:0:0:0:22
+nserver:      J.DNS.SI 108.59.164.1 2a02:e180:7:0:0:0:0:1
+ds-rdata:     2174 8 2 8134257f1cf791876d8060a372ef082e6c2e57d6a59093b81d3efb42dcf81f7f
+
+whois:        whois.register.si
+
+status:       ACTIVE
+remarks:      Registration information: http://www.registry.si/
+
+created:      1992-04-01
+changed:      2019-02-06
+source:       IANA
+

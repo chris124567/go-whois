@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois-bostik.nic.fr
+
+domain:       BOSTIK
+
+organisation: Bostik SA
+address:      253 avenue du Présent Wilson
+address:      93210 La Plaine Saint-Denis
+address:      France
+
+contact:      administrative
+name:         COO
+organisation: SafeBrands
+address:      37 rue Guibal
+address:      13003 Marseille
+address:      France
+phone:        +33488662207
+fax-no:       +33488662220
+e-mail:       tldbostik@safebrands.com
+
+contact:      technical
+name:         TLD Technical Contact
+organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
+address:      Immeuble Le Stephenson
+address:      1, rue Stephenson
+address:      78180 Montigny-Le-Bretonneux
+address:      France
+phone:        +33 1 39 30 83 00
+fax-no:       +33 1 39 30 83 01
+e-mail:       pocbostik@afnic.fr
+
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+ds-rdata:     3734 8 2 5ec62d0b9c87d8b59e901550ff4c0d5366c9d14448fdf8c02112511b6dbb0dbf
+ds-rdata:     1529 8 2 17130BCA01074440A04CCD3F1F18CC9DE61CB8D70960A4AC0E08411900737C48
+
+whois:        whois-bostik.nic.fr
+
+status:       ACTIVE
+remarks:      Registration information: http://www.bostik.com
+
+created:      2015-11-06
+changed:      2019-01-29
+source:       IANA
+

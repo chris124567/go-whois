@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.trading
+
+domain:       TRADING
+
+organisation: DOTTRADING REGISTRY LTD
+address:      Boston ivy
+address:      Cannon Bridge House,
+address:      25 Dowgate Hill,
+address:      London,
+address:      EC4R 2YA
+address:      United Kingdom
+
+contact:      administrative
+name:         Head of Operations
+organisation: DOTTRADING REGISTRY LTD
+address:      Boston Ivy
+address:      Cannon Bridge House
+address:      25 Dowgate Hill
+address:      EC4R 2YA
+address:      United Kingdom
+phone:        +442078960011
+fax-no:       +442078960010
+e-mail:       mike.clark@bostonivy.co
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia
+address:      20190
+address:      United States
+phone:        +1-703-925-6999 
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     50349 8 2 B887649FD0693BDD6CDD8C98F365DCDDF52049E0DAA62422005CA7D2F4243510
+
+whois:        whois.nic.trading
+
+status:       ACTIVE
+remarks:      Registration information: http://bostonivy.co
+
+created:      2015-03-06
+changed:      2019-08-27
+source:       IANA
+

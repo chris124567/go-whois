@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.moi
+
+domain:       MOI
+
+organisation: Amazon Registry Services, Inc.
+address:      410 Terry Avenue North
+address:      Seattle, WA  98109
+address:      United States
+
+contact:      administrative
+name:         General Manager
+organisation: Amazon Registry Services, Inc.
+address:      410 Terry Avenue North
+address:      Seattle, WA  98109
+address:      United States
+phone:        +12067408515
+fax-no:       +12069467702
+e-mail:       moi-rzm@amazon.com
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.MOI 213.248.218.54 2a01:618:402:0:0:0:0:54
+nserver:      DNS2.NIC.MOI 103.49.82.54 2401:fd80:402:0:0:0:0:54
+nserver:      DNS3.NIC.MOI 213.248.222.54 2a01:618:406:0:0:0:0:54
+nserver:      DNS4.NIC.MOI 2401:fd80:406:0:0:0:0:54 43.230.50.54
+nserver:      DNSA.NIC.MOI 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.MOI 156.154.101.3
+nserver:      DNSC.NIC.MOI 156.154.102.3
+nserver:      DNSD.NIC.MOI 156.154.103.3
+ds-rdata:     50647 8 2 D3F69D4C3A87516B81285C3CC392CC7B1A27EAC534DD8A5DF41B6DFD323576B9
+
+whois:        whois.nic.moi
+
+status:       ACTIVE
+remarks:      Registration information: https://www.amazonregistry.com
+
+created:      2015-09-10
+changed:      2019-06-04
+source:       IANA
+

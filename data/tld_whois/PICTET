@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PICTET
+
+organisation: Pictet Europe S.A.
+address:      15A, avenue J. F. Kennedy
+address:      1855 Luxembourg
+address:      Luxembourg
+
+contact:      administrative
+name:         Senior Web Publisher/Editor
+organisation: Banque Pictet & Cie SA
+address:      Route des Acacias 60
+address:      1211 Geneva 73
+address:      Switzerland
+phone:        +41 58 323 23 23
+fax-no:       +41 58 323 23 24
+e-mail:       rbonferroni@pictet.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     216 8 2 DE41FD4B1C1CEDAB4D83F1BACC75DB5012E269BD46A56B4C03D43380FBA665E6
+
+status:       ACTIVE
+
+created:      2015-01-08
+changed:      2019-08-21
+source:       IANA
+

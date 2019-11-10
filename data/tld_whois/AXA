@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AXA
+
+organisation: AXA SA
+address:      25 avenue Matignon | 75008 Paris | FRANCE
+address:      France
+
+contact:      administrative
+name:         Mark Wilson
+organisation: AXA Group Operations
+address:      Enjoy - 81 Rue Mstislav Rostropovitch
+address:      75017 Paris
+address:      France
+phone:        +44 7977 917316
+e-mail:       mark.wilson@axa.com
+
+contact:      technical
+name:         Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 844-677-2878
+fax-no:       +1 571-434-5401
+e-mail:       technical1@registry.neustar
+
+nserver:      NS1.DNS.NIC.AXA 156.154.144.20 2610:a1:1071:0:0:0:0:14
+nserver:      NS2.DNS.NIC.AXA 156.154.145.20 2610:a1:1072:0:0:0:0:14
+nserver:      NS3.DNS.NIC.AXA 156.154.159.20 2610:a1:1073:0:0:0:0:14
+nserver:      NS4.DNS.NIC.AXA 156.154.156.20 2610:a1:1074:0:0:0:0:14
+nserver:      NS5.DNS.NIC.AXA 156.154.157.20 2610:a1:1075:0:0:0:0:14
+nserver:      NS6.DNS.NIC.AXA 156.154.158.20 2610:a1:1076:0:0:0:0:14
+ds-rdata:     277 8 1 A0726AE6D5E790D31241680C3C079C9789C12398
+ds-rdata:     277 8 2 5BAB7EC649761AED8BBD36A6FC057B7D00F0EE3C7B722F3AF504619B50B5C3F6
+ds-rdata:     15799 8 2 0B7F3CB2F77D9EF7AC3BFFD3F8F2F53ACF74A16DD7AD50C3FC9BD75F61931007
+ds-rdata:     15799 8 1 45EEC353221771E356F61ED56DDC0B91AAC14AC0
+
+status:       ACTIVE
+remarks:      Registration information: http://www.axa.com
+
+created:      2014-03-13
+changed:      2019-09-09
+source:       IANA
+

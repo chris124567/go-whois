@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        ccwhois.verisign-grs.com
+
+domain:       CC
+
+organisation: eNIC Cocos (Keeling) Islands Pty.
+organisation: Ltd. d/b/a Island Internet Services
+address:      Level 10, 5 Queens Road
+address:      Melbourne Victoria 3004
+address:      Australia
+
+contact:      administrative
+name:         Mario West, Managing Director
+organisation: eNIC Cocos (Keeling) Islands Pty.
+organisation: Ltd. d/b/a Island Internet Services
+address:      c/o Verisign Internet Services
+address:      Level 10, 5 Queens Road
+address:      Melbourne Victoria 3004
+address:      Australia
+phone:        +613 9926 6700
+fax-no:       +613 9926 6788
+e-mail:       cc-administration@verisign.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1 703 925-6999
+fax-no:       +1 703 948 3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     519 8 1 7285EF05E1B4E679D4F072EEA9B00953E01F3AE2
+ds-rdata:     519 8 2 E1EC6495ABD34562E6F433DEE201E6C6A52CB10AF69C04D675DA692D2D566897
+
+whois:        ccwhois.verisign-grs.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.cc/
+
+created:      1997-10-13
+changed:      2016-04-26
+source:       IANA
+

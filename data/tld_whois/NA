@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.na-nic.com.na
+
+domain:       NA
+
+organisation: Namibian Network Information Center
+address:      PO Box 7022
+address:      Swakopmund
+address:      13002
+address:      Namibia
+
+contact:      administrative
+name:         NA Domain Administrators
+organisation: Namibian Network Information Center
+address:      106, Fischreiher Street
+address:      PO Box 7022
+address:      Swakopmund
+address:      13002
+address:      Namibia
+phone:        +264 81 124 6733
+fax-no:       +264 88 624273
+e-mail:       dns-admin@na-nic.com.na
+
+contact:      technical
+name:         NA Domain Techs
+organisation: Namibian Network Information Center
+address:      PO Box 7022
+address:      Swakopmund
+address:      13002
+address:      Namibia
+phone:        +264 81 124 6733
+fax-no:       +264 88 624273
+e-mail:       dns-admin@na-nic.com
+
+nserver:      A.NA.DYNTLD.NET 108.59.162.1 2a02:e180:5:0:0:0:0:1
+nserver:      ANYC2.IRONDNS.NET 195.253.64.7 2a01:5b0:4:0:0:0:0:7
+nserver:      B.NA.DYNTLD.NET 108.59.163.1 2a02:e180:6:0:0:0:0:1
+nserver:      MERLIN.NET.NA 204.152.184.96
+nserver:      NA-NS.ANYCAST.PCH.NET 2001:500:14:6035:ad:0:0:1 204.61.216.35
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+ds-rdata:     24484 5 1 EFC19D4685751FF8E11F96142A083DCB9C708912
+
+whois:        whois.na-nic.com.na
+
+status:       ACTIVE
+remarks:      Registration information: http://www.na-nic.com.na/
+
+created:      1991-05-08
+changed:      2019-10-11
+source:       IANA
+

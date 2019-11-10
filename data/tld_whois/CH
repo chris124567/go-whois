@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.ch
+
+domain:       CH
+
+organisation: SWITCH The Swiss Education & Research Network
+address:      Werdstrasse 2
+address:      Zurich  CH-8021
+address:      Switzerland
+
+contact:      administrative
+name:         SWITCH TLD Administration
+organisation: SWITCH The Swiss Education & Research Network
+address:      Werdstrasse 2
+address:      Zurich  CH-8021
+address:      Switzerland
+phone:        +41 44 268 15 40
+fax-no:       +41 44 268 15 78
+e-mail:       tld-admin@switch.ch
+
+contact:      technical
+name:         DNS Operations
+organisation: SWITCH The Swiss Education & Research Network
+address:      Werdstrasse 2
+address:      Zurich  CH-8021
+address:      Switzerland
+phone:        +41 44 268 15 40
+fax-no:       +41 44 268 15 78
+e-mail:       dns-operation@switch.ch
+
+nserver:      A.NIC.CH 130.59.31.41 2001:620:0:ff:0:0:0:56
+nserver:      B.NIC.CH 130.59.31.43 2001:620:0:ff:0:0:0:58
+nserver:      C.NIC.CH 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      D.NIC.CH 200.160.0.5 2001:12ff:0:a20:0:0:0:5
+nserver:      E.NIC.CH 194.0.17.1 2001:678:3:0:0:0:0:1
+nserver:      F.NIC.CH 194.146.106.10 2001:67c:1010:2:0:0:0:53
+nserver:      G.NIC.CH 194.0.1.40 2001:678:4:0:0:0:0:28
+nserver:      H.NIC.CH 2a03:bd80:36:0:0:1:203:230 85.119.5.230
+ds-rdata:     11896 13 2 24EE6537B1C452D3AEBF439DCF74024717054152DA7F206D5FCBA1A90F70711F
+
+whois:        whois.nic.ch
+
+status:       ACTIVE
+remarks:      Registration information: https://www.nic.ch/
+
+created:      1987-05-20
+changed:      2019-09-05
+source:       IANA
+

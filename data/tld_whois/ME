@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.me
+
+domain:       ME
+
+organisation: Government of Montenegro
+address:      Rimski trg 46
+address:      Podgorica  81000
+address:      Montenegro
+
+contact:      administrative
+name:         Božo Krstajić
+organisation: University of Montenegro, Faculty of Electrical Engineering
+address:      Džordža Vašingtona bb
+address:      Podgorica 81000
+address:      Montenegro
+phone:        +382 67 313 222
+e-mail:       bozok@ac.me
+
+contact:      technical
+name:         TLD Tech
+organisation: Center of Information System (CIS)
+organisation: University of Montenegro
+address:      Cetinjski put 2
+address:      Podgorica  81000
+address:      Montenegro
+phone:        +382 20 414 290
+fax-no:       +382 20 414 283
+e-mail:       tldtech@ac.me
+
+nserver:      A0.NIC.ME 199.253.59.1 2001:500:53:0:0:0:0:1
+nserver:      A2.NIC.ME 199.249.119.1 2001:500:47:0:0:0:0:1
+nserver:      B0.NIC.ME 199.253.60.1 2001:500:54:0:0:0:0:1
+nserver:      B2.NIC.ME 199.249.127.1 2001:500:4f:0:0:0:0:1
+nserver:      C0.NIC.ME 199.253.61.1 2001:500:55:0:0:0:0:1
+ds-rdata:     2569 7 1 09ba1eb4d20402620881fd9848994417800db26a
+ds-rdata:     2569 7 2 94e798106f033500e67567b197ae9132c0e916764dc743c55a9eca3c7bf559e2
+
+whois:        whois.nic.me
+
+status:       ACTIVE
+remarks:      Registration information: http://www.domain.me
+
+created:      2007-09-24
+changed:      2017-06-22
+source:       IANA
+

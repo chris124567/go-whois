@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.film
+
+domain:       FILM
+
+organisation: Motion Picture Domain Registry Pty Ltd
+address:      Level 1, 11-19 Bank Place
+address:      Melbourne, Victoria 3000
+address:      Australia
+
+contact:      administrative
+name:         Adrian Kinderis
+organisation: Motion Picture Domain Registry Pty Ltd
+address:      Level 1, 11 - 17 Bank Place
+address:      Melbourne, Victoria 3000
+address:      Australia
+phone:        +61416163791
+e-mail:       info@go.film
+
+contact:      technical
+name:         Adrian Kinderis
+organisation: Motion Picture Domain Registry
+address:      Level 1, 11-17 Bank Place
+address:      Melbourne, Victoria 3000
+address:      Australia
+phone:        +61416163791
+e-mail:       info@go.film
+
+nserver:      A.NIC.FILM 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.FILM 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.FILM 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.FILM 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     9967 8 1 786B464133736F2067A34637CAFEC24952ED6541
+ds-rdata:     9967 8 2 B3E301E7289F3DD644DE918DE046C3BDD7BE301E944D0F687AB7706DEED71C06
+
+whois:        whois.nic.film
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.film
+
+created:      2015-02-27
+changed:      2019-07-26
+source:       IANA
+

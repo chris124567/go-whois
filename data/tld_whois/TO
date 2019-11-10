@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.tonic.to
+
+domain:       TO
+
+organisation: Government of the Kingdom of Tonga
+organisation: H.R.H. Crown Prince Tupouto'a
+organisation: c/o Consulate of Tonga
+address:      1350 Bayshore Hwy Suite 610
+address:      Burlingame CA 94010
+address:      United States
+
+contact:      administrative
+name:         Eric Gullichsen
+organisation: Government of the Kingdom of Tonga
+organisation: H.R.H. Crown Prince Tupouto'a
+organisation: c/o Consulate of Tonga
+address:      1350 Bayshore Hwy Suite 610
+address:      Burlingame CA 94010 USA
+address:      United States
+phone:        +1 415 462 3014
+fax-no:       +1 415 789 0522
+e-mail:       egullich@colo.to
+
+contact:      technical
+name:         Eric Gullichsen
+organisation: Government of the Kingdom of Tonga
+organisation: H.R.H. Crown Prince Tupouto'a
+organisation: c/o Consulate of Tonga
+address:      1350 Bayshore Hwy Suite 610
+address:      Burlingame CA 94010 USA
+address:      United States
+phone:        +1 415 462 3014
+fax-no:       +1 415 789 0522
+e-mail:       egullich@colo.to
+
+nserver:      COLO.TO 216.74.32.104
+nserver:      FRANKFURT.TONIC.TO 46.101.233.168
+nserver:      NEWYORK.TONIC.TO 162.243.211.202
+nserver:      SINGAPORE.TONIC.TO 188.166.187.0
+nserver:      TONIC.TO 216.74.32.100
+
+whois:        whois.tonic.to
+
+status:       ACTIVE
+remarks:      Registration information: http://www.tonic.to/
+
+created:      1995-12-18
+changed:      2017-05-02
+source:       IANA
+

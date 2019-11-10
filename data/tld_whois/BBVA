@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.bbva
+
+domain:       BBVA
+
+organisation: BANCO BILBAO VIZCAYA ARGENTARIA, S.A.
+address:      Pº de la Castellana, 81
+address:      Planta 11
+address:      28046 Madrid
+address:      Spain
+
+contact:      administrative
+name:         Gestión Global de Marcas y TLDs – Abogado
+organisation: BBVA
+address:      Pº de la Castellana, 81
+address:      Planta 11
+address:      28046 Madrid
+address:      Spain
+phone:        +34 91 374 63 21
+fax-no:       +34 91 537 72 34
+e-mail:       ngtld-bbva@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston, Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     32169 8 2 25546D1F276A9E71422C3F7835750C7693A070F75D96B455DD28D7F4EDD01D57
+
+whois:        whois.nic.bbva
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.bbva.com/TLBB/BBVA_branding/bbva_es.html
+
+created:      2015-04-23
+changed:      2019-08-19
+source:       IANA
+

@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.pharmacy
+
+domain:       PHARMACY
+
+organisation: National Association of Boards of Pharmacy
+address:      1600 Feehanville Drive, Mount Prospect, IL 60056
+address:      United States
+
+contact:      administrative
+name:         Gertrude Levine
+organisation: National Association of Boards of Pharmacy
+address:      1600 Feehanville Drive
+address:      Mount Prospect
+address:      IL 60056
+address:      United States
+phone:        847-391-4497
+e-mail:       registry@safe.pharmacy
+
+contact:      technical
+name:         Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 844-677-2878
+fax-no:       +1 571-434-5401
+e-mail:       technical1@registry.neustar
+
+nserver:      NS1.DNS.NIC.PHARMACY 156.154.144.135 2610:a1:1071:0:0:0:0:87
+nserver:      NS2.DNS.NIC.PHARMACY 156.154.145.135 2610:a1:1072:0:0:0:0:87
+nserver:      NS3.DNS.NIC.PHARMACY 156.154.159.135 2610:a1:1073:0:0:0:0:87
+nserver:      NS4.DNS.NIC.PHARMACY 156.154.156.135 2610:a1:1074:0:0:0:0:87
+nserver:      NS5.DNS.NIC.PHARMACY 156.154.157.135 2610:a1:1075:0:0:0:0:87
+nserver:      NS6.DNS.NIC.PHARMACY 156.154.158.135 2610:a1:1076:0:0:0:0:87
+ds-rdata:     7486 8 1 2C6B504965B223A0569A255344333E87ED78F5C4
+ds-rdata:     7486 8 2 39215A3C67EA6DE3349151FF5693F0B432D5B0CBB5FEFA495A716504A348692E
+ds-rdata:     19039 8 1 B77593B26C66FC67B03577B9599849CE2129A143
+ds-rdata:     19039 8 2 E753E770B59A3BEF4983A2B5727722710182DCBDA0FE91A63626CB37C0C71AF8
+
+whois:        whois.nic.pharmacy
+
+status:       ACTIVE
+remarks:      Registration information: https://nabp.pharmacy
+
+created:      2014-08-28
+changed:      2019-08-29
+source:       IANA
+

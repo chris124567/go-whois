@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.dk-hostmaster.dk
+
+domain:       DK
+
+organisation: Dansk Internet Forum
+address:      Ørestads Boulevard 108, 11th floor
+address:      DK-2300 Copenhagen S
+address:      Denmark
+
+contact:      administrative
+name:         DK Hostmaster Administrative Contact
+organisation: DK Hostmaster A/S
+address:      Ørestads Boulevard 108, 11th floor
+address:      DK-2300 Copenhagen S
+address:      Denmark
+phone:        +45 3364 6060
+fax-no:       +45 3364 6066
+e-mail:       tld2019admin@dk-hostmaster.dk
+
+contact:      technical
+name:         DK Hostmaster Technical Contact
+organisation: DK Hostmaster A/S
+address:      Ørestads Boulevard 108, 11th floor
+address:      DK-2300 Copenhagen S
+address:      Denmark
+phone:        +45 3364 6060
+fax-no:       +45 3364 6066
+e-mail:       tld2019tech@dk-hostmaster.dk
+
+nserver:      A.NIC.DK 2001:1580:0:180d:0:0:0:122 212.88.78.122
+nserver:      B.NIC.DK 193.163.102.222 2a01:630:0:80:0:0:0:53
+nserver:      C.NIC.DK 194.0.46.53 2001:678:74:0:0:0:0:53
+nserver:      L.NIC.DK 192.38.7.242 2001:7f8:1f:0:0:1835:242:0
+nserver:      P.NIC.DK 194.0.47.42 2001:678:78:42:ad:0:0:53
+nserver:      S.NIC.DK 193.176.144.15 2a00:d78:0:102:193:176:144:15
+ds-rdata:     32195 8 2 167cb3652048f478222e958d1cad907d7ecb28e7a545de01b8591ad29eac6444
+
+whois:        whois.dk-hostmaster.dk
+
+status:       ACTIVE
+remarks:      Registration information: https://www.dk-hostmaster.dk/
+
+created:      1987-07-14
+changed:      2019-05-01
+source:       IANA
+

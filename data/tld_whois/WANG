@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.gtld.knet.cn
+
+domain:       WANG
+
+organisation: Zodiac Wang Limited
+address:      Block A Unit 406, Horizon International Tower No. 6 Zhichun Road, Haidian District Beijing 100088 P.R. China
+address:      China
+
+contact:      administrative
+name:         Eugene Li
+organisation: Zodiac Holdings Ltd
+address:      Block B Unit 403, Horizon International Tower No. 6 Zhichun Road, Haidian District Beijing 100088 P.R. China
+address:      China
+phone:        +86.1082961219
+fax-no:       +86.1082961269
+e-mail:       ceo@nic.wang
+
+contact:      technical
+name:         Zhanyong Zhang
+organisation: Zodiac Holdings Ltd
+address:      Block B Unit 403, Horizon International Tower No. 6 Zhichun Road, Haidian District Beijing 100088 P.R. China
+address:      China
+phone:        +86.1082961219
+fax-no:       +86.1082961269
+e-mail:       vp@nic.wang
+
+nserver:      A.ZDNSCLOUD.COM 203.99.24.1
+nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      C.ZDNSCLOUD.COM 203.99.26.1
+nserver:      D.ZDNSCLOUD.COM 203.99.27.1
+nserver:      F.ZDNSCLOUD.COM 114.67.46.12
+nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     20969 8 2 e686eb5367b243e5dfd5c5faadb23b0a52172b9cf5c72b28836be2af9402dadd
+
+whois:        whois.gtld.knet.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.zodiacregistry.com
+
+created:      2013-12-12
+changed:      2019-06-13
+source:       IANA
+

@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.srs.net.nz
+
+domain:       NZ
+
+organisation: InternetNZ
+address:      Level 11
+address:      80 Boulcott Street
+address:      Wellington  6011
+address:      New Zealand
+
+contact:      administrative
+name:         IANA Administrator
+organisation: InternetNZ
+address:      Level 11
+address:      80 Boulcott Street
+address:      Wellington  6011
+address:      New Zealand
+phone:        +64 4 472 1600
+fax-no:       +64 4 495 2115
+e-mail:       iana@internetnz.net.nz
+
+contact:      technical
+name:         IANA Administrator
+organisation: InternetNZ
+address:      Level 11
+address:      80 Boulcott Street
+address:      Wellington  6011
+address:      New Zealand
+phone:        +64 4 472 1600
+e-mail:       ianatech@internetnz.net.nz
+
+nserver:      NS1.DNS.NET.NZ 2001:dce:2000:2:0:0:0:130 202.46.190.130
+nserver:      NS2.DNS.NET.NZ 2001:dce:7000:2:0:0:0:130 202.46.187.130
+nserver:      NS3.DNS.NET.NZ 2001:dce:d453:0:0:0:0:53 202.46.188.130
+nserver:      NS4.DNS.NET.NZ 2001:dce:d454:0:0:0:0:53 202.46.189.130
+nserver:      NS5.DNS.NET.NZ 185.159.197.130 2620:10a:80aa:0:0:0:0:130
+nserver:      NS6.DNS.NET.NZ 185.159.198.130 2620:10a:80ab:0:0:0:0:130
+nserver:      NS7.DNS.NET.NZ 194.146.106.54 2001:67c:1010:13:0:0:0:53
+ds-rdata:     5029 8 1 483115a784fa8cf8c8910d7a19b66949b42f67ea
+ds-rdata:     5029 8 2 983251e9bb3309c81b075e44c0a1ddfd0a10057ff1e3a4c4cd014372a673a644
+ds-rdata:     45320 8 1 bb940c35d63821617adfc8a3a9cf3d859af3c202
+ds-rdata:     45320 8 2 2921eabc7d5ef803f53135974e30d2f3c970156a7553782f737cae996aa5f90a
+
+whois:        whois.srs.net.nz
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dnc.org.nz/
+
+created:      1987-01-19
+changed:      2019-05-30
+source:       IANA
+

@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.ki
+
+domain:       KI
+
+organisation: Ministry of Communications, Transport, and Tourism Development
+address:      Betio
+address:      Tarawa
+address:      Kiribati
+
+contact:      administrative
+name:         ICT Advisor
+organisation: Ministry of Communications, Transport and Tourism Development
+address:      Betio
+address:      Tarawa
+address:      Kiribati
+address:      Kiribati
+phone:        +686 26003
+fax-no:       +686 26193
+e-mail:       ictadvisor@mcttd.gov.ki
+
+contact:      technical
+name:         Kaboterenga Romatoa
+organisation: Communications Commission of Kiribati
+address:      Main Road
+address:      Betio
+address:      Tarawa
+address:      Kiribati
+phone:        +686 25488
+e-mail:       kaboterenga.romatoa@cck.ki
+
+nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
+nserver:      PCH.NIC.KI 2001:500:14:6026:ad:0:0:1 204.61.216.26
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+ds-rdata:     59540 8 2 FD3B27E5C171B883FE2815DDE7FBBE7F2E5AF826BFF47C33B5970F53E2A855DE
+
+whois:        whois.nic.ki
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.ki
+
+created:      1995-04-19
+changed:      2018-04-11
+source:       IANA
+

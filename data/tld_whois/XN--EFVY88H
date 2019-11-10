@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.xn--efvy88h
+
+domain:       新闻
+domain-ace:   XN--EFVY88H
+
+organisation: Guangzhou YU Wei Information and Technology Co.,Ltd
+address:      No.1 Linhexi Road, Tianhe District
+address:      Guangzhou City
+address:      Guangdong Province
+address:      China
+
+contact:      administrative
+name:         CEO
+organisation: Guangzhou YU Wei Information and Technology Co.,Ltd
+address:      3302 International Trade Center
+address:      No.1 Linhe Xi Road
+address:      Guangzhou, Guangdong Province 510610
+address:      China
+phone:        +86 20 6622 2543
+fax-no:       +86 20 6622 2813
+e-mail:       registry@xinhuagd.cn
+
+contact:      technical
+name:         CTO
+organisation: Guangzhou YU Wei Information and Technology Co.,Ltd
+address:      3302 International Trade Center
+address:      No.1 Linhe Xi Road
+address:      Guangzhou, Guangdong Province 510610
+address:      China
+phone:        +86 20 6622 2543
+fax-no:       +86 20 6622 2813
+e-mail:       technology@xinhuagd.cn
+
+nserver:      A.ZDNSCLOUD.COM 203.99.24.1
+nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      C.ZDNSCLOUD.COM 203.99.26.1
+nserver:      D.ZDNSCLOUD.COM 203.99.27.1
+nserver:      F.ZDNSCLOUD.COM 114.67.46.12
+nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     16702 8 2 3dc3633898aef4cf395e3b558dddb6b02111abc6bc31be55346bb44cb7778e74
+
+whois:        whois.nic.xn--efvy88h
+
+status:       ACTIVE
+remarks:      Registration information: http://www.gd.xinhua.org
+
+created:      2015-08-06
+changed:      2019-09-05
+source:       IANA
+

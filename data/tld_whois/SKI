@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.afilias.net
+
+domain:       SKI
+
+organisation: Afilias Limited
+address:      4th Floor, International House, 3 Harbourmaster Pl
+address:      IFSC
+address:      Dublin 1
+address:      Ireland
+
+contact:      administrative
+name:         Senior Vice President
+organisation: Afilias
+address:      Building 3, Suite 105, 300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-admin-poc@afilias.info
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105, 300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.SKI 2a01:8840:52:0:0:0:0:17 65.22.84.17
+nserver:      A2.NIC.SKI 2a01:8840:55:0:0:0:0:17 65.22.87.17
+nserver:      B0.NIC.SKI 2a01:8840:53:0:0:0:0:17 65.22.85.17
+nserver:      C0.NIC.SKI 2a01:8840:54:0:0:0:0:17 65.22.86.17
+ds-rdata:     62489 8 1 512d8b1cb41109fd9d142ca2e733d109f9c08cd3
+ds-rdata:     62489 8 2 d421064a672f86a83a4c7fe005ce8cd164fffdfab3e64415498c3413ba46fe10
+
+whois:        whois.afilias.net
+
+status:       ACTIVE
+remarks:      Registration information: http://afilias.info/contact-us
+
+created:      2015-05-14
+changed:      2019-08-19
+source:       IANA
+

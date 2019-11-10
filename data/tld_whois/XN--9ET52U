@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.gtld.knet.cn
+
+domain:       时尚
+domain-ace:   XN--9ET52U
+
+organisation: RISE VICTORY LIMITED
+address:      201A, Wing On Plaza, 62 Mody Road, Tsimshatsui East, Kowloon
+address:      Hong Kong
+
+contact:      administrative
+name:         CEO
+organisation: RISE VICTORY LIMITED
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East, Kowloon, Hong Kong
+address:      China
+phone:        +86 20 6622 2813
+e-mail:       ceo@yu-wei.cn
+
+contact:      technical
+name:         VP
+organisation: RISE VICTORY LIMITED
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East, Kowloon, Hong Kong
+address:      China
+phone:        +86 20 6622 2813
+e-mail:       technology@yu-wei.cn
+
+nserver:      A.ZDNSCLOUD.COM 203.99.24.1
+nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      C.ZDNSCLOUD.COM 203.99.26.1
+nserver:      D.ZDNSCLOUD.COM 203.99.27.1
+nserver:      F.ZDNSCLOUD.COM 114.67.46.12
+nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     769 8 2 2bae7ba36ea94541b8bc12188eb1aa933b5081cc281909cc5874af2ebeebae96
+
+whois:        whois.gtld.knet.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.newgtld.cn
+
+created:      2015-03-12
+changed:      2019-09-03
+source:       IANA
+

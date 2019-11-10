@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VI
+
+organisation: Virgin Islands Public Telecommunications System, Inc.
+address:      4608 Tutu Park Mall, Suite 202
+address:      St. Thomas, VI 00802-1816
+address:      Virgin Islands, U.s.
+
+contact:      administrative
+name:         Doris Sparks deBlanc
+organisation: Virgin Islands Public Telecommunications System, Inc.
+address:      4608 Tutu Park Mall, Suite 202
+address:      St. Thomas, VI 00802-1816
+address:      Virgin Islands, U.s.
+phone:        +1 340 776-4800
+fax-no:       +1 340 776-2666
+e-mail:       dsparks@usvi.net
+
+contact:      technical
+name:         Doris Sparks deBlanc
+organisation: Cobex International, Inc.
+address:      Post Office Box 1678
+address:      Charlotte Amalie  00804
+address:      Virgin Islands, U.s.
+phone:        +1 340 776-4800
+fax-no:       +1 340 776-2666
+e-mail:       dnsadmin@usvi.net
+
+nserver:      AUTH100.NS.UU.NET 198.6.1.202
+nserver:      AUTH110.NS.UU.NET 198.6.1.114
+nserver:      NS1.NIC.VI 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      NS3.NIC.VI 185.17.236.230
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.vi
+
+created:      1995-08-31
+changed:      2019-09-04
+source:       IANA
+

@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.sydney
+
+domain:       SYDNEY
+
+organisation: State of New South Wales, Department of Premier and Cabinet
+address:      1 Farrer Place Sydney,
+address:      New South Wales 2000
+address:      Australia
+
+contact:      administrative
+name:         Senior Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 571 434 5400
+fax-no:       +1 571 434 5735
+e-mail:       technical1@registry.neustar
+
+contact:      technical
+name:         Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 844 677 2878
+fax-no:       +1 571 434 5401
+e-mail:       technical1@registry.neustar
+
+nserver:      A.NIC.SYDNEY 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.SYDNEY 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.SYDNEY 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.SYDNEY 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     58114 8 2 77D5604398757FEBEF20916550FBCDBDA112404D1C62E0C9BF10F1E2B6721481
+ds-rdata:     58114 8 1 7B42D71BF52E6395490139628CDFEFD552BD3F00
+
+whois:        whois.nic.sydney
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.ariservices.com/dotsydney
+
+created:      2014-10-30
+changed:      2019-06-27
+source:       IANA
+

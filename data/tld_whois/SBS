@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.sbs
+
+domain:       SBS
+
+organisation: SPECIAL BROADCASTING SERVICE CORPORATION
+address:      14 HERBERT STREET ARTARMON, NEW SOUTH WALES - 2064
+address:      Australia
+
+contact:      administrative
+name:         Manager, Strategy & Innovation
+organisation: SPECIAL BROADCASTING SERVICE CORPORATION
+address:      14 HERBERT STREET ARTARMON NEW SOUTH WALES - 2064
+address:      Australia
+phone:        +612 9430 3047 
+fax-no:       +612 9430 3047 
+e-mail:       ngtld-sbs@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     49074 8 2 DBDB6A00E2AAC5F3C8EE371B1E46F69DA8BF7B985F837CDB9FAC21BEEE2F7FCF
+
+whois:        whois.nic.sbs
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.sbs
+
+created:      2015-09-24
+changed:      2019-08-16
+source:       IANA
+
